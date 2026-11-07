@@ -1,4 +1,3 @@
-
 {
   "garments": [
     {
@@ -7,9 +6,28 @@
       "category": "Dress",
       "description": "A fitted upper body with a skirt that gradually widens towards the hem.",
       "silhouette": "A-line",
-      "customizableElements": ["bodice", "neckline", "sleeves", "waist", "skirt", "length"],
+      "customizableElements": [
+        "bodice",
+        "neckline",
+        "sleeves",
+        "waist",
+        "skirt",
+        "length"
+      ],
       "image": "/images/a-line-dress.png",
-      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "availableSizes": [
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        50,
+        52,
+        54
+      ],
       "defaultSize": 38
     },
     {
@@ -18,9 +36,27 @@
       "category": "Dress",
       "description": "A fitted dress that follows the natural shape of the body.",
       "silhouette": "Fitted",
-      "customizableElements": ["bodice", "neckline", "sleeves", "darts", "length"],
+      "customizableElements": [
+        "bodice",
+        "neckline",
+        "sleeves",
+        "darts",
+        "length"
+      ],
       "image": "/images/sheath-dress.png",
-      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "availableSizes": [
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        50,
+        52,
+        54
+      ],
       "defaultSize": 38
     },
     {
@@ -29,9 +65,28 @@
       "category": "Dress",
       "description": "A dress with overlapping front panels and an adjustable waist tie.",
       "silhouette": "Wrap",
-      "customizableElements": ["bodice", "neckline", "sleeves", "waist", "skirt", "length"],
+      "customizableElements": [
+        "bodice",
+        "neckline",
+        "sleeves",
+        "waist",
+        "skirt",
+        "length"
+      ],
       "image": "/images/wrap-dress.png",
-      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "availableSizes": [
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        50,
+        52,
+        54
+      ],
       "defaultSize": 38
     },
     {
@@ -40,9 +95,28 @@
       "category": "Dress",
       "description": "A minimal dress with thin straps and a fluid silhouette.",
       "silhouette": "Straight",
-      "customizableElements": ["bodice", "neckline", "straps", "skirt", "length", "slit"],
+      "customizableElements": [
+        "bodice",
+        "neckline",
+        "straps",
+        "skirt",
+        "length",
+        "slit"
+      ],
       "image": "/images/slip-dress.png",
-      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "availableSizes": [
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        50,
+        52,
+        54
+      ],
       "defaultSize": 38
     },
     {
@@ -51,9 +125,29 @@
       "category": "Dress",
       "description": "A shirt-inspired dress with a collar, front buttons and optional waist belt.",
       "silhouette": "Shirt",
-      "customizableElements": ["collar", "sleeves", "cuffs", "buttons", "waist", "skirt", "length"],
+      "customizableElements": [
+        "collar",
+        "sleeves",
+        "cuffs",
+        "buttons",
+        "waist",
+        "skirt",
+        "length"
+      ],
       "image": "/images/shirt-dress.png",
-      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "availableSizes": [
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        50,
+        52,
+        54
+      ],
       "defaultSize": 38
     },
     {
@@ -62,9 +156,33 @@
       "category": "Corset",
       "description": "A structured corset with a defined waist and classic curved neckline.",
       "silhouette": "Structured",
-      "customizableElements": ["neckline", "cups", "boning", "waist", "back", "length"],
+      "customizableElements": [
+        "neckline",
+        "cupShape",
+        "cupCoverage",
+        "boning",
+        "waist",
+        "backDesign",
+        "length",
+        "closure",
+        "panels",
+        "hem",
+        "straps"
+      ],
       "image": "/images/classic-corset.png",
-      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "availableSizes": [
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        50,
+        52,
+        54
+      ],
       "defaultSize": 38
     },
     {
@@ -73,9 +191,33 @@
       "category": "Corset",
       "description": "A fitted corset with a sweetheart neckline and shaped cups.",
       "silhouette": "Sweetheart",
-      "customizableElements": ["neckline", "cups", "boning", "waist", "back", "length"],
+      "customizableElements": [
+        "neckline",
+        "cupShape",
+        "cupCoverage",
+        "boning",
+        "waist",
+        "backDesign",
+        "length",
+        "closure",
+        "panels",
+        "hem",
+        "straps"
+      ],
       "image": "/images/sweetheart-corset.png",
-      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "availableSizes": [
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        50,
+        52,
+        54
+      ],
       "defaultSize": 38
     },
     {
@@ -84,9 +226,33 @@
       "category": "Corset",
       "description": "An elongated corset extending below the natural waist.",
       "silhouette": "Longline",
-      "customizableElements": ["neckline", "cups", "boning", "waist", "back", "length"],
+      "customizableElements": [
+        "neckline",
+        "cupShape",
+        "cupCoverage",
+        "boning",
+        "waist",
+        "backDesign",
+        "length",
+        "closure",
+        "panels",
+        "hem",
+        "straps"
+      ],
       "image": "/images/longline-corset.png",
-      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "availableSizes": [
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        50,
+        52,
+        54
+      ],
       "defaultSize": 38
     },
     {
@@ -95,9 +261,32 @@
       "category": "Corset",
       "description": "A structured corset that starts below the bust and shapes the waist.",
       "silhouette": "Underbust",
-      "customizableElements": ["waist", "boning", "back", "length", "closures"],
+      "customizableElements": [
+        "waist",
+        "boning",
+        "backDesign",
+        "length",
+        "closure",
+        "panels",
+        "hem",
+        "busk",
+        "straps",
+        "hipCoverage"
+      ],
       "image": "/images/underbust-corset.png",
-      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "availableSizes": [
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        50,
+        52,
+        54
+      ],
       "defaultSize": 38
     },
     {
@@ -106,9 +295,33 @@
       "category": "Corset",
       "description": "A fitted corset featuring a lace-up back and visible panel construction.",
       "silhouette": "Lace-up",
-      "customizableElements": ["neckline", "cups", "boning", "waist", "back", "closures"],
+      "customizableElements": [
+        "neckline",
+        "cupShape",
+        "cupCoverage",
+        "boning",
+        "waist",
+        "backDesign",
+        "length",
+        "closure",
+        "lacing",
+        "panels",
+        "hem"
+      ],
       "image": "/images/lace-up-corset.png",
-      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "availableSizes": [
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        50,
+        52,
+        54
+      ],
       "defaultSize": 38
     },
     {
@@ -117,9 +330,31 @@
       "category": "Pants",
       "description": "High-waisted trousers with a wide and fluid leg.",
       "silhouette": "Wide-leg",
-      "customizableElements": ["waistband", "hips", "leg", "pockets", "length", "closures"],
+      "customizableElements": [
+        "waistband",
+        "rise",
+        "legShape",
+        "closure",
+        "pleats",
+        "frontPockets",
+        "backPockets",
+        "hem",
+        "beltLoops"
+      ],
       "image": "/images/wide-leg-trousers.png",
-      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "availableSizes": [
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        50,
+        52,
+        54
+      ],
       "defaultSize": 38
     },
     {
@@ -128,9 +363,31 @@
       "category": "Pants",
       "description": "Classic trousers with a straight leg and tailored waist.",
       "silhouette": "Straight",
-      "customizableElements": ["waistband", "hips", "leg", "pockets", "length", "closures"],
+      "customizableElements": [
+        "waistband",
+        "rise",
+        "legShape",
+        "closure",
+        "pleats",
+        "frontPockets",
+        "backPockets",
+        "hem",
+        "beltLoops"
+      ],
       "image": "/images/straight-leg-trousers.png",
-      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "availableSizes": [
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        50,
+        52,
+        54
+      ],
       "defaultSize": 38
     },
     {
@@ -139,9 +396,31 @@
       "category": "Pants",
       "description": "Fitted through the hips with legs that widen towards the hem.",
       "silhouette": "Flared",
-      "customizableElements": ["waistband", "hips", "leg", "pockets", "length", "closures"],
+      "customizableElements": [
+        "waistband",
+        "rise",
+        "legShape",
+        "closure",
+        "pleats",
+        "frontPockets",
+        "backPockets",
+        "hem",
+        "beltLoops"
+      ],
       "image": "/images/flared-trousers.png",
-      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "availableSizes": [
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        50,
+        52,
+        54
+      ],
       "defaultSize": 38
     },
     {
@@ -150,9 +429,31 @@
       "category": "Pants",
       "description": "Trousers with a relaxed upper leg and a narrower ankle.",
       "silhouette": "Tapered",
-      "customizableElements": ["waistband", "hips", "leg", "pockets", "length", "closures"],
+      "customizableElements": [
+        "waistband",
+        "rise",
+        "legShape",
+        "closure",
+        "pleats",
+        "frontPockets",
+        "backPockets",
+        "hem",
+        "beltLoops"
+      ],
       "image": "/images/tapered-trousers.png",
-      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "availableSizes": [
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        50,
+        52,
+        54
+      ],
       "defaultSize": 38
     },
     {
@@ -161,9 +462,33 @@
       "category": "Pants",
       "description": "Utility-inspired trousers with a relaxed fit and side pockets.",
       "silhouette": "Cargo",
-      "customizableElements": ["waistband", "hips", "leg", "pockets", "length", "closures"],
+      "customizableElements": [
+        "waistband",
+        "rise",
+        "legShape",
+        "closure",
+        "pleats",
+        "frontPockets",
+        "backPockets",
+        "cargoPocket",
+        "hem",
+        "beltLoops",
+        "kneeDetails"
+      ],
       "image": "/images/cargo-trousers.png",
-      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "availableSizes": [
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        50,
+        52,
+        54
+      ],
       "defaultSize": 38
     },
     {
@@ -172,9 +497,32 @@
       "category": "Shirt",
       "description": "A timeless button-up shirt with a collar and long sleeves.",
       "silhouette": "Classic",
-      "customizableElements": ["collar", "neckline", "sleeves", "cuffs", "buttons", "bodice", "length"],
+      "customizableElements": [
+        "collar",
+        "neckline",
+        "bodiceFit",
+        "sleeveShape",
+        "cuff",
+        "closure",
+        "frontPockets",
+        "darts",
+        "length",
+        "hem"
+      ],
       "image": "/images/classic-button-shirt.png",
-      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "availableSizes": [
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        50,
+        52,
+        54
+      ],
       "defaultSize": 38
     },
     {
@@ -183,9 +531,32 @@
       "category": "Shirt",
       "description": "A relaxed oversized shirt with dropped shoulders and a loose fit.",
       "silhouette": "Oversized",
-      "customizableElements": ["collar", "neckline", "sleeves", "cuffs", "buttons", "bodice", "length"],
+      "customizableElements": [
+        "collar",
+        "neckline",
+        "bodiceFit",
+        "sleeveShape",
+        "cuff",
+        "closure",
+        "frontPockets",
+        "shoulder",
+        "length",
+        "hem"
+      ],
       "image": "/images/oversized-shirt.png",
-      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "availableSizes": [
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        50,
+        52,
+        54
+      ],
       "defaultSize": 38
     },
     {
@@ -194,9 +565,32 @@
       "category": "Shirt",
       "description": "A short shirt with a defined waist and classic collar.",
       "silhouette": "Cropped",
-      "customizableElements": ["collar", "neckline", "sleeves", "cuffs", "buttons", "bodice", "length"],
+      "customizableElements": [
+        "collar",
+        "neckline",
+        "bodiceFit",
+        "sleeveShape",
+        "cuff",
+        "closure",
+        "frontPockets",
+        "waistDetail",
+        "length",
+        "hem"
+      ],
       "image": "/images/cropped-shirt.png",
-      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "availableSizes": [
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        50,
+        52,
+        54
+      ],
       "defaultSize": 38
     },
     {
@@ -205,9 +599,32 @@
       "category": "Shirt",
       "description": "A feminine shirt with voluminous puff sleeves and fitted cuffs.",
       "silhouette": "Puff sleeve",
-      "customizableElements": ["collar", "neckline", "sleeves", "cuffs", "buttons", "bodice", "length"],
+      "customizableElements": [
+        "collar",
+        "neckline",
+        "bodiceFit",
+        "sleeveShape",
+        "cuff",
+        "closure",
+        "frontPockets",
+        "shoulderDetail",
+        "length",
+        "hem"
+      ],
       "image": "/images/puff-sleeve-shirt.png",
-      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "availableSizes": [
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        50,
+        52,
+        54
+      ],
       "defaultSize": 38
     },
     {
@@ -216,9 +633,32 @@
       "category": "Shirt",
       "description": "A sleeveless shirt with a clean silhouette and button front.",
       "silhouette": "Sleeveless",
-      "customizableElements": ["collar", "neckline", "armholes", "buttons", "bodice", "length"],
+      "customizableElements": [
+        "collar",
+        "neckline",
+        "bodiceFit",
+        "armhole",
+        "shoulder",
+        "closure",
+        "frontPockets",
+        "darts",
+        "length",
+        "hem"
+      ],
       "image": "/images/sleeveless-shirt.png",
-      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "availableSizes": [
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        50,
+        52,
+        54
+      ],
       "defaultSize": 38
     },
     {
@@ -227,9 +667,32 @@
       "category": "Skirt",
       "description": "A classic skirt that gently widens from the waist to the hem.",
       "silhouette": "A-line",
-      "customizableElements": ["waistband", "hips", "volume", "length", "closures", "pockets"],
+      "customizableElements": [
+        "waistband",
+        "rise",
+        "waistFit",
+        "panel",
+        "closure",
+        "frontPockets",
+        "backPockets",
+        "slit",
+        "length",
+        "hem"
+      ],
       "image": "/images/a-line-skirt.png",
-      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "availableSizes": [
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        50,
+        52,
+        54
+      ],
       "defaultSize": 38
     },
     {
@@ -238,9 +701,32 @@
       "category": "Skirt",
       "description": "A skirt with structured pleats and a defined waistband.",
       "silhouette": "Pleated",
-      "customizableElements": ["waistband", "pleats", "volume", "length", "closures"],
+      "customizableElements": [
+        "waistband",
+        "rise",
+        "pleatStructure",
+        "panel",
+        "pleatDepth",
+        "closure",
+        "pockets",
+        "length",
+        "hem",
+        "lining"
+      ],
       "image": "/images/pleated-skirt.png",
-      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "availableSizes": [
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        50,
+        52,
+        54
+      ],
       "defaultSize": 38
     },
     {
@@ -249,9 +735,32 @@
       "category": "Skirt",
       "description": "An overlapping skirt with an adjustable side fastening.",
       "silhouette": "Wrap",
-      "customizableElements": ["waistband", "overlap", "volume", "length", "closures"],
+      "customizableElements": [
+        "waistband",
+        "rise",
+        "wrapDirection",
+        "panel",
+        "closure",
+        "overlap",
+        "pockets",
+        "slit",
+        "length",
+        "hem"
+      ],
       "image": "/images/wrap-skirt.png",
-      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "availableSizes": [
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        50,
+        52,
+        54
+      ],
       "defaultSize": 38
     },
     {
@@ -260,9 +769,33 @@
       "category": "Skirt",
       "description": "A tiered skirt with soft ruffles and a flowing silhouette.",
       "silhouette": "Ruffled",
-      "customizableElements": ["waistband", "ruffles", "volume", "length"],
+      "customizableElements": [
+        "waistband",
+        "rise",
+        "baseSilhouette",
+        "ruffle",
+        "ruffleVolume",
+        "rufflePlacement",
+        "closure",
+        "pockets",
+        "length",
+        "hem",
+        "lining"
+      ],
       "image": "/images/ruffled-skirt.png",
-      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "availableSizes": [
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        50,
+        52,
+        54
+      ],
       "defaultSize": 38
     },
     {
@@ -271,212 +804,4259 @@
       "category": "Skirt",
       "description": "A fitted skirt with a narrow silhouette and optional back slit.",
       "silhouette": "Pencil",
-      "customizableElements": ["waistband", "hips", "slit", "length", "closures"],
+      "customizableElements": [
+        "waistband",
+        "rise",
+        "waistFit",
+        "panel",
+        "closure",
+        "darts",
+        "slit",
+        "pockets",
+        "length",
+        "hem",
+        "lining"
+      ],
       "image": "/images/pencil-skirt.png",
-      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "availableSizes": [
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        50,
+        52,
+        54
+      ],
       "defaultSize": 38
     }
   ],
-  
-"bodySizes": [
-  {
-    "id": "34",
-    "size": 34,
-    "bust": 80,
-    "waist": 64,
-    "hips": 90,
-    "shoulderWidth": 36,
-    "armLength": 58,
-    "upperArm": 26,
-    "backLength": 39,
-    "crotchDepth": 25,
-    "inseam": 76
-  },
-  {
-    "id": "36",
-    "size": 36,
-    "bust": 84,
-    "waist": 68,
-    "hips": 94,
-    "shoulderWidth": 37,
-    "armLength": 58.5,
-    "upperArm": 27,
-    "backLength": 39.5,
-    "crotchDepth": 25.5,
-    "inseam": 76.5
-  },
-  {
-    "id": "38",
-    "size": 38,
-    "bust": 88,
-    "waist": 72,
-    "hips": 98,
-    "shoulderWidth": 38,
-    "armLength": 59,
-    "upperArm": 28,
-    "backLength": 40,
-    "crotchDepth": 26,
-    "inseam": 77
-  },
-  {
-    "id": "40",
-    "size": 40,
-    "bust": 92,
-    "waist": 76,
-    "hips": 102,
-    "shoulderWidth": 39,
-    "armLength": 59.5,
-    "upperArm": 29,
-    "backLength": 40.5,
-    "crotchDepth": 26.5,
-    "inseam": 77.5
-  },
-  {
-    "id": "42",
-    "size": 42,
-    "bust": 96,
-    "waist": 80,
-    "hips": 106,
-    "shoulderWidth": 40,
-    "armLength": 60,
-    "upperArm": 30,
-    "backLength": 41,
-    "crotchDepth": 27,
-    "inseam": 78
-  },
-  {
-    "id": "44",
-    "size": 44,
-    "bust": 100,
-    "waist": 84,
-    "hips": 110,
-    "shoulderWidth": 41,
-    "armLength": 60.5,
-    "upperArm": 31,
-    "backLength": 41.5,
-    "crotchDepth": 27.5,
-    "inseam": 78.5
-  },
-  {
-    "id": "46",
-    "size": 46,
-    "bust": 104,
-    "waist": 88,
-    "hips": 114,
-    "shoulderWidth": 42,
-    "armLength": 61,
-    "upperArm": 32,
-    "backLength": 42,
-    "crotchDepth": 28,
-    "inseam": 79
-  },
-  {
-    "id": "48",
-    "size": 48,
-    "bust": 109,
-    "waist": 93,
-    "hips": 119,
-    "shoulderWidth": 43,
-    "armLength": 61.5,
-    "upperArm": 33,
-    "backLength": 42.5,
-    "crotchDepth": 28.5,
-    "inseam": 79.5
-  },
-  {
-    "id": "50",
-    "size": 50,
-    "bust": 114,
-    "waist": 98,
-    "hips": 124,
-    "shoulderWidth": 44,
-    "armLength": 62,
-    "upperArm": 34,
-    "backLength": 43,
-    "crotchDepth": 29,
-    "inseam": 80
-  },
-  {
-    "id": "52",
-    "size": 52,
-    "bust": 119,
-    "waist": 103,
-    "hips": 129,
-    "shoulderWidth": 45,
-    "armLength": 62.5,
-    "upperArm": 35,
-    "backLength": 43.5,
-    "crotchDepth": 29.5,
-    "inseam": 80.5
-  },
-  {
-    "id": "54",
-    "size": 54,
-    "bust": 124,
-    "waist": 108,
-    "hips": 134,
-    "shoulderWidth": 46,
-    "armLength": 63,
-    "upperArm": 36,
-    "backLength": 44,
-    "crotchDepth": 30,
-    "inseam": 81
-  }
-],
-"components": [
-  {
-    "id": "1",
-    "garmentId": "1",
-    "name": "Bodice",
-    "type": "bodice",
-    "options": ["Fitted", "Loose", "Corset"],
-    "defaultOption": "Fitted",
-    "defaultSize": 38
-  },
-  {
-    "id": "2",
-    "garmentId": "1",
-    "name": "Neckline",
-    "type": "neckline",
-    "options": ["Round", "V-neck", "Square", "Sweetheart", "Boat"],
-    "defaultOption": "Round",
-    "defaultSize": 38
-  },
-  {
-    "id": "3",
-    "garmentId": "1",
-    "name": "Sleeves",
-    "type": "sleeves",
-    "options": ["Sleeveless", "Short", "Long", "Puff", "Bell"],
-    "defaultOption": "Short",
-    "defaultSize": 38
-  },
-  {
-    "id": "4",
-    "garmentId": "1",
-    "name": "Waist",
-    "type": "waist",
-    "options": ["Natural", "High", "Dropped"],
-    "defaultOption": "Natural",
-    "defaultSize": 38
-  },
-  {
-    "id": "5",
-    "garmentId": "1",
-    "name": "Skirt",
-    "type": "skirt",
-    "options": ["A-line", "Straight", "Gathered", "Pleated"],
-    "defaultOption": "A-line",
-    "defaultSize": 38
-  },
-  {
-    "id": "6",
-    "garmentId": "1",
-    "name": "Length",
-    "type": "length",
-    "options": ["Mini", "Knee", "Midi", "Maxi"],
-    "defaultOption": "Midi",
-    "defaultSize": 38
-  }
-]
+  "bodySizes": [
+    {
+      "id": "34",
+      "size": 34,
+      "bust": 80,
+      "waist": 64,
+      "hips": 90,
+      "shoulderWidth": 36,
+      "armLength": 58,
+      "upperArm": 26,
+      "backLength": 39,
+      "crotchDepth": 25,
+      "inseam": 76
+    },
+    {
+      "id": "36",
+      "size": 36,
+      "bust": 84,
+      "waist": 68,
+      "hips": 94,
+      "shoulderWidth": 37,
+      "armLength": 58.5,
+      "upperArm": 27,
+      "backLength": 39.5,
+      "crotchDepth": 25.5,
+      "inseam": 76.5
+    },
+    {
+      "id": "38",
+      "size": 38,
+      "bust": 88,
+      "waist": 72,
+      "hips": 98,
+      "shoulderWidth": 38,
+      "armLength": 59,
+      "upperArm": 28,
+      "backLength": 40,
+      "crotchDepth": 26,
+      "inseam": 77
+    },
+    {
+      "id": "40",
+      "size": 40,
+      "bust": 92,
+      "waist": 76,
+      "hips": 102,
+      "shoulderWidth": 39,
+      "armLength": 59.5,
+      "upperArm": 29,
+      "backLength": 40.5,
+      "crotchDepth": 26.5,
+      "inseam": 77.5
+    },
+    {
+      "id": "42",
+      "size": 42,
+      "bust": 96,
+      "waist": 80,
+      "hips": 106,
+      "shoulderWidth": 40,
+      "armLength": 60,
+      "upperArm": 30,
+      "backLength": 41,
+      "crotchDepth": 27,
+      "inseam": 78
+    },
+    {
+      "id": "44",
+      "size": 44,
+      "bust": 100,
+      "waist": 84,
+      "hips": 110,
+      "shoulderWidth": 41,
+      "armLength": 60.5,
+      "upperArm": 31,
+      "backLength": 41.5,
+      "crotchDepth": 27.5,
+      "inseam": 78.5
+    },
+    {
+      "id": "46",
+      "size": 46,
+      "bust": 104,
+      "waist": 88,
+      "hips": 114,
+      "shoulderWidth": 42,
+      "armLength": 61,
+      "upperArm": 32,
+      "backLength": 42,
+      "crotchDepth": 28,
+      "inseam": 79
+    },
+    {
+      "id": "48",
+      "size": 48,
+      "bust": 109,
+      "waist": 93,
+      "hips": 119,
+      "shoulderWidth": 43,
+      "armLength": 61.5,
+      "upperArm": 33,
+      "backLength": 42.5,
+      "crotchDepth": 28.5,
+      "inseam": 79.5
+    },
+    {
+      "id": "50",
+      "size": 50,
+      "bust": 114,
+      "waist": 98,
+      "hips": 124,
+      "shoulderWidth": 44,
+      "armLength": 62,
+      "upperArm": 34,
+      "backLength": 43,
+      "crotchDepth": 29,
+      "inseam": 80
+    },
+    {
+      "id": "52",
+      "size": 52,
+      "bust": 119,
+      "waist": 103,
+      "hips": 129,
+      "shoulderWidth": 45,
+      "armLength": 62.5,
+      "upperArm": 35,
+      "backLength": 43.5,
+      "crotchDepth": 29.5,
+      "inseam": 80.5
+    },
+    {
+      "id": "54",
+      "size": 54,
+      "bust": 124,
+      "waist": 108,
+      "hips": 134,
+      "shoulderWidth": 46,
+      "armLength": 63,
+      "upperArm": 36,
+      "backLength": 44,
+      "crotchDepth": 30,
+      "inseam": 81
+    }
+  ],
+  "components": [
+    {
+      "id": "1",
+      "garmentId": "1",
+      "name": "Bodice",
+      "type": "bodice",
+      "options": [
+        "Fitted",
+        "Structured",
+        "Corset",
+        "Draped"
+      ],
+      "defaultOption": "Fitted",
+      "defaultSize": 38
+    },
+    {
+      "id": "2",
+      "garmentId": "1",
+      "name": "Neckline",
+      "type": "neckline",
+      "options": [
+        "Round",
+        "V-neck",
+        "Square",
+        "Sweetheart",
+        "Boat",
+        "Off-shoulder"
+      ],
+      "defaultOption": "Round",
+      "defaultSize": 38
+    },
+    {
+      "id": "3",
+      "garmentId": "1",
+      "name": "Left Sleeve",
+      "type": "sleeve",
+      "options": [
+        "Sleeveless",
+        "Cap",
+        "Short",
+        "Elbow",
+        "Long",
+        "Puff",
+        "Bell",
+        "Bishop"
+      ],
+      "defaultOption": "Short",
+      "defaultSize": 38,
+      "side": "left"
+    },
+    {
+      "id": "4",
+      "garmentId": "1",
+      "name": "Waist",
+      "type": "waist",
+      "options": [
+        "Natural",
+        "High",
+        "Dropped",
+        "Defined"
+      ],
+      "defaultOption": "Natural",
+      "defaultSize": 38
+    },
+    {
+      "id": "5",
+      "garmentId": "1",
+      "name": "Skirt",
+      "type": "skirt",
+      "options": [
+        "A-line",
+        "Straight",
+        "Gathered",
+        "Pleated",
+        "Circle"
+      ],
+      "defaultOption": "A-line",
+      "defaultSize": 38
+    },
+    {
+      "id": "6",
+      "garmentId": "1",
+      "name": "Length",
+      "type": "length",
+      "options": [
+        "Mini",
+        "Knee",
+        "Midi",
+        "Maxi"
+      ],
+      "defaultOption": "Midi",
+      "defaultSize": 38
+    },
+    {
+      "id": "7",
+      "garmentId": "1",
+      "name": "Right Sleeve",
+      "type": "sleeve",
+      "options": [
+        "Sleeveless",
+        "Cap",
+        "Short",
+        "Elbow",
+        "Long",
+        "Puff",
+        "Bell",
+        "Bishop"
+      ],
+      "defaultOption": "Short",
+      "defaultSize": 38,
+      "side": "right"
+    },
+    {
+      "id": "8",
+      "garmentId": "2",
+      "name": "Bodice",
+      "type": "bodice",
+      "options": [
+        "Fitted",
+        "Structured",
+        "Draped"
+      ],
+      "defaultOption": "Fitted",
+      "defaultSize": 38
+    },
+    {
+      "id": "9",
+      "garmentId": "2",
+      "name": "Neckline",
+      "type": "neckline",
+      "options": [
+        "Round",
+        "V-neck",
+        "Square",
+        "Boat",
+        "Sweetheart",
+        "High Neck"
+      ],
+      "defaultOption": "Round",
+      "defaultSize": 38
+    },
+    {
+      "id": "10",
+      "garmentId": "2",
+      "name": "Left Sleeve",
+      "type": "sleeve",
+      "options": [
+        "Sleeveless",
+        "Cap",
+        "Short",
+        "Elbow",
+        "Long",
+        "Puff",
+        "Bell"
+      ],
+      "defaultOption": "Short",
+      "defaultSize": 38,
+      "side": "left"
+    },
+    {
+      "id": "11",
+      "garmentId": "2",
+      "name": "Right Sleeve",
+      "type": "sleeve",
+      "options": [
+        "Sleeveless",
+        "Cap",
+        "Short",
+        "Elbow",
+        "Long",
+        "Puff",
+        "Bell"
+      ],
+      "defaultOption": "Short",
+      "defaultSize": 38,
+      "side": "right"
+    },
+    {
+      "id": "12",
+      "garmentId": "2",
+      "name": "Waist",
+      "type": "waist",
+      "options": [
+        "Natural",
+        "Defined",
+        "Dropped"
+      ],
+      "defaultOption": "Defined",
+      "defaultSize": 38
+    },
+    {
+      "id": "13",
+      "garmentId": "2",
+      "name": "Skirt",
+      "type": "skirt",
+      "options": [
+        "Straight",
+        "Tapered"
+      ],
+      "defaultOption": "Straight",
+      "defaultSize": 38
+    },
+    {
+      "id": "14",
+      "garmentId": "2",
+      "name": "Length",
+      "type": "length",
+      "options": [
+        "Mini",
+        "Knee",
+        "Midi",
+        "Maxi"
+      ],
+      "defaultOption": "Knee",
+      "defaultSize": 38
+    },
+    {
+      "id": "15",
+      "garmentId": "3",
+      "name": "Bodice",
+      "type": "bodice",
+      "options": [
+        "Surplice",
+        "Fitted",
+        "Relaxed"
+      ],
+      "defaultOption": "Surplice",
+      "defaultSize": 38
+    },
+    {
+      "id": "16",
+      "garmentId": "3",
+      "name": "Neckline",
+      "type": "neckline",
+      "options": [
+        "V-neck",
+        "Deep V",
+        "Square",
+        "Crossover"
+      ],
+      "defaultOption": "V-neck",
+      "defaultSize": 38
+    },
+    {
+      "id": "17",
+      "garmentId": "3",
+      "name": "Left Sleeve",
+      "type": "sleeve",
+      "options": [
+        "Sleeveless",
+        "Cap",
+        "Short",
+        "Elbow",
+        "Long",
+        "Puff",
+        "Bell"
+      ],
+      "defaultOption": "Short",
+      "defaultSize": 38,
+      "side": "left"
+    },
+    {
+      "id": "18",
+      "garmentId": "3",
+      "name": "Right Sleeve",
+      "type": "sleeve",
+      "options": [
+        "Sleeveless",
+        "Cap",
+        "Short",
+        "Elbow",
+        "Long",
+        "Puff",
+        "Bell"
+      ],
+      "defaultOption": "Short",
+      "defaultSize": 38,
+      "side": "right"
+    },
+    {
+      "id": "19",
+      "garmentId": "3",
+      "name": "Wrap Closure",
+      "type": "wrap",
+      "options": [
+        "Side Tie",
+        "Front Tie",
+        "Internal Tie",
+        "Button"
+      ],
+      "defaultOption": "Side Tie",
+      "defaultSize": 38
+    },
+    {
+      "id": "20",
+      "garmentId": "3",
+      "name": "Waist",
+      "type": "waist",
+      "options": [
+        "Natural",
+        "High",
+        "Dropped",
+        "Defined"
+      ],
+      "defaultOption": "Natural",
+      "defaultSize": 38
+    },
+    {
+      "id": "21",
+      "garmentId": "3",
+      "name": "Skirt",
+      "type": "skirt",
+      "options": [
+        "A-line",
+        "Straight",
+        "Gathered",
+        "Flared"
+      ],
+      "defaultOption": "A-line",
+      "defaultSize": 38
+    },
+    {
+      "id": "22",
+      "garmentId": "3",
+      "name": "Length",
+      "type": "length",
+      "options": [
+        "Mini",
+        "Knee",
+        "Midi",
+        "Maxi"
+      ],
+      "defaultOption": "Midi",
+      "defaultSize": 38
+    },
+    {
+      "id": "23",
+      "garmentId": "4",
+      "name": "Bodice",
+      "type": "bodice",
+      "options": [
+        "Fitted",
+        "Relaxed"
+      ],
+      "defaultOption": "Fitted",
+      "defaultSize": 38
+    },
+    {
+      "id": "24",
+      "garmentId": "4",
+      "name": "Neckline",
+      "type": "neckline",
+      "options": [
+        "Cowl",
+        "V-neck",
+        "Straight",
+        "Square",
+        "Sweetheart"
+      ],
+      "defaultOption": "Cowl",
+      "defaultSize": 38
+    },
+    {
+      "id": "25",
+      "garmentId": "4",
+      "name": "Left Strap",
+      "type": "strap",
+      "options": [
+        "Thin",
+        "Wide",
+        "Adjustable"
+      ],
+      "defaultOption": "Thin",
+      "defaultSize": 38,
+      "side": "left"
+    },
+    {
+      "id": "26",
+      "garmentId": "4",
+      "name": "Right Strap",
+      "type": "strap",
+      "options": [
+        "Thin",
+        "Wide",
+        "Adjustable"
+      ],
+      "defaultOption": "Thin",
+      "defaultSize": 38,
+      "side": "right"
+    },
+    {
+      "id": "27",
+      "garmentId": "4",
+      "name": "Waist",
+      "type": "waist",
+      "options": [
+        "Fitted",
+        "Empire",
+        "Relaxed"
+      ],
+      "defaultOption": "Fitted",
+      "defaultSize": 38
+    },
+    {
+      "id": "28",
+      "garmentId": "4",
+      "name": "Skirt",
+      "type": "skirt",
+      "options": [
+        "Straight",
+        "A-line",
+        "Bias Cut"
+      ],
+      "defaultOption": "Bias Cut",
+      "defaultSize": 38
+    },
+    {
+      "id": "29",
+      "garmentId": "4",
+      "name": "Length",
+      "type": "length",
+      "options": [
+        "Mini",
+        "Knee",
+        "Midi",
+        "Maxi"
+      ],
+      "defaultOption": "Midi",
+      "defaultSize": 38
+    },
+    {
+      "id": "30",
+      "garmentId": "5",
+      "name": "Collar",
+      "type": "collar",
+      "options": [
+        "Classic",
+        "Pointed",
+        "Mandarin",
+        "Spread",
+        "Peter Pan"
+      ],
+      "defaultOption": "Classic",
+      "defaultSize": 38
+    },
+    {
+      "id": "31",
+      "garmentId": "5",
+      "name": "Neckline",
+      "type": "neckline",
+      "options": [
+        "Buttoned",
+        "Open",
+        "Deep V"
+      ],
+      "defaultOption": "Buttoned",
+      "defaultSize": 38
+    },
+    {
+      "id": "32",
+      "garmentId": "5",
+      "name": "Left Sleeve",
+      "type": "sleeve",
+      "options": [
+        "Sleeveless",
+        "Cap",
+        "Short",
+        "Elbow",
+        "Long",
+        "Puff",
+        "Bell"
+      ],
+      "defaultOption": "Short",
+      "defaultSize": 38,
+      "side": "left"
+    },
+    {
+      "id": "33",
+      "garmentId": "5",
+      "name": "Right Sleeve",
+      "type": "sleeve",
+      "options": [
+        "Sleeveless",
+        "Cap",
+        "Short",
+        "Elbow",
+        "Long",
+        "Puff",
+        "Bell"
+      ],
+      "defaultOption": "Short",
+      "defaultSize": 38,
+      "side": "right"
+    },
+    {
+      "id": "34",
+      "garmentId": "5",
+      "name": "Cuffs",
+      "type": "cuffs",
+      "options": [
+        "Simple",
+        "Buttoned",
+        "Wide",
+        "Turn-up"
+      ],
+      "defaultOption": "Buttoned",
+      "defaultSize": 38
+    },
+    {
+      "id": "35",
+      "garmentId": "5",
+      "name": "Bodice",
+      "type": "bodice",
+      "options": [
+        "Fitted",
+        "Regular",
+        "Oversized",
+        "Cropped"
+      ],
+      "defaultOption": "Regular",
+      "defaultSize": 38
+    },
+    {
+      "id": "36",
+      "garmentId": "5",
+      "name": "Closure",
+      "type": "closure",
+      "options": [
+        "Buttons",
+        "Hidden Buttons",
+        "Snap Buttons"
+      ],
+      "defaultOption": "Buttons",
+      "defaultSize": 38
+    },
+    {
+      "id": "37",
+      "garmentId": "5",
+      "name": "Waist",
+      "type": "waist",
+      "options": [
+        "Straight",
+        "Defined",
+        "Relaxed",
+        "Belted",
+        "Elastic"
+      ],
+      "defaultOption": "Straight",
+      "defaultSize": 38
+    },
+    {
+      "id": "38",
+      "garmentId": "5",
+      "name": "Skirt",
+      "type": "skirt",
+      "options": [
+        "Straight",
+        "A-line",
+        "Flared",
+        "Gathered",
+        "Pleated"
+      ],
+      "defaultOption": "A-line",
+      "defaultSize": 38
+    },
+    {
+      "id": "39",
+      "garmentId": "5",
+      "name": "Hem",
+      "type": "hem",
+      "options": [
+        "Straight",
+        "Curved",
+        "High-low",
+        "Shirt-tail"
+      ],
+      "defaultOption": "Curved",
+      "defaultSize": 38
+    },
+    {
+      "id": "40",
+      "garmentId": "1",
+      "name": "Hem",
+      "type": "hem",
+      "options": [
+        "Straight",
+        "Curved",
+        "Ruffled",
+        "Asymmetric"
+      ],
+      "defaultOption": "Straight",
+      "defaultSize": 38
+    },
+    {
+      "id": "41",
+      "garmentId": "1",
+      "name": "Slit",
+      "type": "slit",
+      "options": [
+        "None",
+        "Front",
+        "Side",
+        "Back"
+      ],
+      "defaultOption": "None",
+      "defaultSize": 38
+    },
+    {
+      "id": "42",
+      "garmentId": "2",
+      "name": "Slit",
+      "type": "slit",
+      "options": [
+        "None",
+        "Front",
+        "Side",
+        "Back"
+      ],
+      "defaultOption": "None",
+      "defaultSize": 38
+    },
+    {
+      "id": "43",
+      "garmentId": "2",
+      "name": "Hem",
+      "type": "hem",
+      "options": [
+        "Straight",
+        "Curved",
+        "Asymmetric"
+      ],
+      "defaultOption": "Straight",
+      "defaultSize": 38
+    },
+    {
+      "id": "44",
+      "garmentId": "3",
+      "name": "Hem",
+      "type": "hem",
+      "options": [
+        "Straight",
+        "Ruffled",
+        "Asymmetric"
+      ],
+      "defaultOption": "Straight",
+      "defaultSize": 38
+    },
+    {
+      "id": "45",
+      "garmentId": "3",
+      "name": "Slit",
+      "type": "slit",
+      "options": [
+        "None",
+        "Front",
+        "Side"
+      ],
+      "defaultOption": "None",
+      "defaultSize": 38
+    },
+    {
+      "id": "46",
+      "garmentId": "4",
+      "name": "Hem",
+      "type": "hem",
+      "options": [
+        "Straight",
+        "Curved",
+        "Lace",
+        "Asymmetric"
+      ],
+      "defaultOption": "Straight",
+      "defaultSize": 38
+    },
+    {
+      "id": "47",
+      "garmentId": "4",
+      "name": "Back Detail",
+      "type": "backDetail",
+      "options": [
+        "Closed",
+        "Open",
+        "Low Back"
+      ],
+      "defaultOption": "Closed",
+      "defaultSize": 38
+    },
+    {
+      "id": "48",
+      "garmentId": "4",
+      "name": "Strap Arrangement",
+      "type": "strapArrangement",
+      "options": [
+        "Parallel",
+        "Crossed",
+        "Racerback"
+      ],
+      "defaultOption": "Parallel",
+      "defaultSize": 38
+    },
+    {
+      "id": "49",
+      "garmentId": "4",
+      "name": "Slit",
+      "type": "slit",
+      "options": [
+        "None",
+        "Front",
+        "Side",
+        "Back"
+      ],
+      "defaultOption": "None",
+      "defaultSize": 38
+    },
+    {
+      "id": "50",
+      "garmentId": "5",
+      "name": "Slit",
+      "type": "slit",
+      "options": [
+        "None",
+        "Front",
+        "Side"
+      ],
+      "defaultOption": "None",
+      "defaultSize": 38
+    },
+    {
+      "id": "51",
+      "garmentId": "5",
+      "name": "Pockets",
+      "type": "pockets",
+      "options": [
+        "None",
+        "Single Chest Pocket",
+        "Double Chest Pockets",
+        "Side Pockets"
+      ],
+      "defaultOption": "None",
+      "defaultSize": 38
+    },
+    {
+      "id": "52",
+      "garmentId": "6",
+      "name": "Neckline",
+      "type": "neckline",
+      "options": [
+        "Straight",
+        "Sweetheart",
+        "V-neck",
+        "Scoop",
+        "Off-shoulder"
+      ],
+      "defaultOption": "Sweetheart",
+      "defaultSize": 38
+    },
+    {
+      "id": "53",
+      "garmentId": "6",
+      "name": "Cup Shape",
+      "type": "cupShape",
+      "options": [
+        "Round",
+        "Pointed",
+        "Demi",
+        "Balconette",
+        "Conical"
+      ],
+      "defaultOption": "Round",
+      "defaultSize": 38
+    },
+    {
+      "id": "54",
+      "garmentId": "6",
+      "name": "Cup Coverage",
+      "type": "cupCoverage",
+      "options": [
+        "Full",
+        "Demi",
+        "Low",
+        "High"
+      ],
+      "defaultOption": "Full",
+      "defaultSize": 38
+    },
+    {
+      "id": "55",
+      "garmentId": "6",
+      "name": "Boning",
+      "type": "boning",
+      "options": [
+        "Spiral Steel",
+        "Flat Steel",
+        "Synthetic",
+        "Mixed",
+        "None"
+      ],
+      "defaultOption": "Spiral Steel",
+      "defaultSize": 38
+    },
+    {
+      "id": "56",
+      "garmentId": "6",
+      "name": "Waist Shape",
+      "type": "waist",
+      "options": [
+        "Natural",
+        "Defined",
+        "Dipped",
+        "Pointed"
+      ],
+      "defaultOption": "Defined",
+      "defaultSize": 38
+    },
+    {
+      "id": "57",
+      "garmentId": "6",
+      "name": "Back Design",
+      "type": "backDesign",
+      "options": [
+        "Straight",
+        "V-shaped",
+        "Curved",
+        "High Back",
+        "Low Back"
+      ],
+      "defaultOption": "Straight",
+      "defaultSize": 38
+    },
+    {
+      "id": "58",
+      "garmentId": "6",
+      "name": "Length",
+      "type": "length",
+      "options": [
+        "Waist",
+        "High Hip",
+        "Mid Hip",
+        "Longline"
+      ],
+      "defaultOption": "Waist",
+      "defaultSize": 38
+    },
+    {
+      "id": "59",
+      "garmentId": "6",
+      "name": "Front Closure",
+      "type": "closure",
+      "options": [
+        "Metal Busk",
+        "Zipper",
+        "Hook and Eye",
+        "Lacing"
+      ],
+      "defaultOption": "Metal Busk",
+      "defaultSize": 38
+    },
+    {
+      "id": "60",
+      "garmentId": "6",
+      "name": "Panel Construction",
+      "type": "panels",
+      "options": [
+        "4 Panels",
+        "6 Panels",
+        "8 Panels",
+        "12 Panels"
+      ],
+      "defaultOption": "6 Panels",
+      "defaultSize": 38
+    },
+    {
+      "id": "61",
+      "garmentId": "6",
+      "name": "Hem Finish",
+      "type": "hem",
+      "options": [
+        "Straight",
+        "Pointed",
+        "Scalloped",
+        "Curved"
+      ],
+      "defaultOption": "Pointed",
+      "defaultSize": 38
+    },
+    {
+      "id": "62",
+      "garmentId": "6",
+      "name": "Straps",
+      "type": "straps",
+      "options": [
+        "Strapless",
+        "Thin Straps",
+        "Wide Straps",
+        "Detachable Straps"
+      ],
+      "defaultOption": "Strapless",
+      "defaultSize": 38
+    },
+    {
+      "id": "63",
+      "garmentId": "7",
+      "name": "Neckline",
+      "type": "neckline",
+      "options": [
+        "Classic Sweetheart",
+        "Deep Sweetheart",
+        "Soft Sweetheart",
+        "Demi Sweetheart"
+      ],
+      "defaultOption": "Classic Sweetheart",
+      "defaultSize": 38
+    },
+    {
+      "id": "64",
+      "garmentId": "7",
+      "name": "Cup Shape",
+      "type": "cupShape",
+      "options": [
+        "Round",
+        "Pointed",
+        "Demi",
+        "Balconette",
+        "Conical"
+      ],
+      "defaultOption": "Demi",
+      "defaultSize": 38
+    },
+    {
+      "id": "65",
+      "garmentId": "7",
+      "name": "Cup Coverage",
+      "type": "cupCoverage",
+      "options": [
+        "Full",
+        "Demi",
+        "Low",
+        "High"
+      ],
+      "defaultOption": "Demi",
+      "defaultSize": 38
+    },
+    {
+      "id": "66",
+      "garmentId": "7",
+      "name": "Boning",
+      "type": "boning",
+      "options": [
+        "Spiral Steel",
+        "Flat Steel",
+        "Synthetic",
+        "Mixed",
+        "None"
+      ],
+      "defaultOption": "Spiral Steel",
+      "defaultSize": 38
+    },
+    {
+      "id": "67",
+      "garmentId": "7",
+      "name": "Waist Shape",
+      "type": "waist",
+      "options": [
+        "Natural",
+        "Defined",
+        "Dipped",
+        "Pointed"
+      ],
+      "defaultOption": "Defined",
+      "defaultSize": 38
+    },
+    {
+      "id": "68",
+      "garmentId": "7",
+      "name": "Back Design",
+      "type": "backDesign",
+      "options": [
+        "Straight",
+        "V-shaped",
+        "Curved",
+        "High Back",
+        "Low Back"
+      ],
+      "defaultOption": "Straight",
+      "defaultSize": 38
+    },
+    {
+      "id": "69",
+      "garmentId": "7",
+      "name": "Length",
+      "type": "length",
+      "options": [
+        "Waist",
+        "High Hip",
+        "Mid Hip",
+        "Longline"
+      ],
+      "defaultOption": "Waist",
+      "defaultSize": 38
+    },
+    {
+      "id": "70",
+      "garmentId": "7",
+      "name": "Front Closure",
+      "type": "closure",
+      "options": [
+        "Metal Busk",
+        "Zipper",
+        "Hook and Eye",
+        "Lacing"
+      ],
+      "defaultOption": "Metal Busk",
+      "defaultSize": 38
+    },
+    {
+      "id": "71",
+      "garmentId": "7",
+      "name": "Panel Construction",
+      "type": "panels",
+      "options": [
+        "4 Panels",
+        "6 Panels",
+        "8 Panels",
+        "12 Panels"
+      ],
+      "defaultOption": "6 Panels",
+      "defaultSize": 38
+    },
+    {
+      "id": "72",
+      "garmentId": "7",
+      "name": "Hem Finish",
+      "type": "hem",
+      "options": [
+        "Straight",
+        "Pointed",
+        "Scalloped",
+        "Curved"
+      ],
+      "defaultOption": "Pointed",
+      "defaultSize": 38
+    },
+    {
+      "id": "73",
+      "garmentId": "7",
+      "name": "Straps",
+      "type": "straps",
+      "options": [
+        "Strapless",
+        "Thin Straps",
+        "Wide Straps",
+        "Detachable Straps"
+      ],
+      "defaultOption": "Strapless",
+      "defaultSize": 38
+    },
+    {
+      "id": "74",
+      "garmentId": "8",
+      "name": "Neckline",
+      "type": "neckline",
+      "options": [
+        "Straight",
+        "Sweetheart",
+        "V-neck",
+        "Scoop",
+        "High Neck"
+      ],
+      "defaultOption": "Straight",
+      "defaultSize": 38
+    },
+    {
+      "id": "75",
+      "garmentId": "8",
+      "name": "Cup Shape",
+      "type": "cupShape",
+      "options": [
+        "Round",
+        "Pointed",
+        "Demi",
+        "Balconette",
+        "Conical"
+      ],
+      "defaultOption": "Round",
+      "defaultSize": 38
+    },
+    {
+      "id": "76",
+      "garmentId": "8",
+      "name": "Cup Coverage",
+      "type": "cupCoverage",
+      "options": [
+        "Full",
+        "Demi",
+        "Low",
+        "High"
+      ],
+      "defaultOption": "Full",
+      "defaultSize": 38
+    },
+    {
+      "id": "77",
+      "garmentId": "8",
+      "name": "Boning",
+      "type": "boning",
+      "options": [
+        "Spiral Steel",
+        "Flat Steel",
+        "Synthetic",
+        "Mixed",
+        "None"
+      ],
+      "defaultOption": "Spiral Steel",
+      "defaultSize": 38
+    },
+    {
+      "id": "78",
+      "garmentId": "8",
+      "name": "Waist Shape",
+      "type": "waist",
+      "options": [
+        "Natural",
+        "Defined",
+        "Dipped",
+        "Pointed"
+      ],
+      "defaultOption": "Defined",
+      "defaultSize": 38
+    },
+    {
+      "id": "79",
+      "garmentId": "8",
+      "name": "Back Design",
+      "type": "backDesign",
+      "options": [
+        "Straight",
+        "V-shaped",
+        "Curved",
+        "High Back",
+        "Low Back"
+      ],
+      "defaultOption": "Curved",
+      "defaultSize": 38
+    },
+    {
+      "id": "80",
+      "garmentId": "8",
+      "name": "Length",
+      "type": "length",
+      "options": [
+        "High Hip",
+        "Mid Hip",
+        "Low Hip",
+        "Upper Thigh"
+      ],
+      "defaultOption": "Mid Hip",
+      "defaultSize": 38
+    },
+    {
+      "id": "81",
+      "garmentId": "8",
+      "name": "Front Closure",
+      "type": "closure",
+      "options": [
+        "Metal Busk",
+        "Zipper",
+        "Hook and Eye",
+        "Lacing"
+      ],
+      "defaultOption": "Metal Busk",
+      "defaultSize": 38
+    },
+    {
+      "id": "82",
+      "garmentId": "8",
+      "name": "Panel Construction",
+      "type": "panels",
+      "options": [
+        "6 Panels",
+        "8 Panels",
+        "10 Panels",
+        "12 Panels"
+      ],
+      "defaultOption": "8 Panels",
+      "defaultSize": 38
+    },
+    {
+      "id": "83",
+      "garmentId": "8",
+      "name": "Hem Finish",
+      "type": "hem",
+      "options": [
+        "Straight",
+        "Pointed",
+        "Scalloped",
+        "Curved",
+        "Asymmetric"
+      ],
+      "defaultOption": "Curved",
+      "defaultSize": 38
+    },
+    {
+      "id": "84",
+      "garmentId": "8",
+      "name": "Straps",
+      "type": "straps",
+      "options": [
+        "Strapless",
+        "Thin Straps",
+        "Wide Straps",
+        "Detachable Straps"
+      ],
+      "defaultOption": "Strapless",
+      "defaultSize": 38
+    },
+    {
+      "id": "85",
+      "garmentId": "9",
+      "name": "Waist Shape",
+      "type": "waist",
+      "options": [
+        "Natural",
+        "Defined",
+        "Dipped",
+        "Pointed"
+      ],
+      "defaultOption": "Defined",
+      "defaultSize": 38
+    },
+    {
+      "id": "86",
+      "garmentId": "9",
+      "name": "Boning",
+      "type": "boning",
+      "options": [
+        "Spiral Steel",
+        "Flat Steel",
+        "Synthetic",
+        "Mixed",
+        "None"
+      ],
+      "defaultOption": "Spiral Steel",
+      "defaultSize": 38
+    },
+    {
+      "id": "87",
+      "garmentId": "9",
+      "name": "Back Design",
+      "type": "backDesign",
+      "options": [
+        "Straight",
+        "V-shaped",
+        "Curved",
+        "High Back",
+        "Low Back"
+      ],
+      "defaultOption": "Straight",
+      "defaultSize": 38
+    },
+    {
+      "id": "88",
+      "garmentId": "9",
+      "name": "Length",
+      "type": "length",
+      "options": [
+        "Waist",
+        "High Hip",
+        "Mid Hip",
+        "Longline"
+      ],
+      "defaultOption": "High Hip",
+      "defaultSize": 38
+    },
+    {
+      "id": "89",
+      "garmentId": "9",
+      "name": "Closure",
+      "type": "closure",
+      "options": [
+        "Metal Busk",
+        "Zipper",
+        "Hook and Eye",
+        "Lacing"
+      ],
+      "defaultOption": "Metal Busk",
+      "defaultSize": 38
+    },
+    {
+      "id": "90",
+      "garmentId": "9",
+      "name": "Panel Construction",
+      "type": "panels",
+      "options": [
+        "4 Panels",
+        "6 Panels",
+        "8 Panels",
+        "12 Panels"
+      ],
+      "defaultOption": "6 Panels",
+      "defaultSize": 38
+    },
+    {
+      "id": "91",
+      "garmentId": "9",
+      "name": "Hem Finish",
+      "type": "hem",
+      "options": [
+        "Straight",
+        "Pointed",
+        "Scalloped",
+        "Curved"
+      ],
+      "defaultOption": "Pointed",
+      "defaultSize": 38
+    },
+    {
+      "id": "92",
+      "garmentId": "9",
+      "name": "Busk Style",
+      "type": "busk",
+      "options": [
+        "Standard",
+        "Flexible",
+        "Heavy Duty",
+        "No Busk"
+      ],
+      "defaultOption": "Standard",
+      "defaultSize": 38
+    },
+    {
+      "id": "93",
+      "garmentId": "9",
+      "name": "Straps",
+      "type": "straps",
+      "options": [
+        "Strapless",
+        "Thin Straps",
+        "Wide Straps",
+        "Detachable Straps"
+      ],
+      "defaultOption": "Strapless",
+      "defaultSize": 38
+    },
+    {
+      "id": "94",
+      "garmentId": "9",
+      "name": "Hip Coverage",
+      "type": "hipCoverage",
+      "options": [
+        "Minimal",
+        "Standard",
+        "Extended"
+      ],
+      "defaultOption": "Standard",
+      "defaultSize": 38
+    },
+    {
+      "id": "95",
+      "garmentId": "10",
+      "name": "Neckline",
+      "type": "neckline",
+      "options": [
+        "Straight",
+        "Sweetheart",
+        "V-neck",
+        "Scoop",
+        "Off-shoulder"
+      ],
+      "defaultOption": "Sweetheart",
+      "defaultSize": 38
+    },
+    {
+      "id": "96",
+      "garmentId": "10",
+      "name": "Cup Shape",
+      "type": "cupShape",
+      "options": [
+        "Round",
+        "Pointed",
+        "Demi",
+        "Balconette",
+        "Conical"
+      ],
+      "defaultOption": "Round",
+      "defaultSize": 38
+    },
+    {
+      "id": "97",
+      "garmentId": "10",
+      "name": "Cup Coverage",
+      "type": "cupCoverage",
+      "options": [
+        "Full",
+        "Demi",
+        "Low",
+        "High"
+      ],
+      "defaultOption": "Full",
+      "defaultSize": 38
+    },
+    {
+      "id": "98",
+      "garmentId": "10",
+      "name": "Boning",
+      "type": "boning",
+      "options": [
+        "Spiral Steel",
+        "Flat Steel",
+        "Synthetic",
+        "Mixed",
+        "None"
+      ],
+      "defaultOption": "Spiral Steel",
+      "defaultSize": 38
+    },
+    {
+      "id": "99",
+      "garmentId": "10",
+      "name": "Waist Shape",
+      "type": "waist",
+      "options": [
+        "Natural",
+        "Defined",
+        "Dipped",
+        "Pointed"
+      ],
+      "defaultOption": "Defined",
+      "defaultSize": 38
+    },
+    {
+      "id": "100",
+      "garmentId": "10",
+      "name": "Back Design",
+      "type": "backDesign",
+      "options": [
+        "Straight",
+        "V-shaped",
+        "Curved",
+        "High Back",
+        "Low Back"
+      ],
+      "defaultOption": "Straight",
+      "defaultSize": 38
+    },
+    {
+      "id": "101",
+      "garmentId": "10",
+      "name": "Length",
+      "type": "length",
+      "options": [
+        "Waist",
+        "High Hip",
+        "Mid Hip",
+        "Longline"
+      ],
+      "defaultOption": "Waist",
+      "defaultSize": 38
+    },
+    {
+      "id": "102",
+      "garmentId": "10",
+      "name": "Front Closure",
+      "type": "closure",
+      "options": [
+        "Open Front",
+        "Metal Busk",
+        "Zipper",
+        "Hook and Eye"
+      ],
+      "defaultOption": "Open Front",
+      "defaultSize": 38
+    },
+    {
+      "id": "103",
+      "garmentId": "10",
+      "name": "Lacing",
+      "type": "lacing",
+      "options": [
+        "Cross Lacing",
+        "Straight Lacing",
+        "Ribbon Lacing",
+        "Cord Lacing"
+      ],
+      "defaultOption": "Cross Lacing",
+      "defaultSize": 38
+    },
+    {
+      "id": "104",
+      "garmentId": "10",
+      "name": "Panel Construction",
+      "type": "panels",
+      "options": [
+        "4 Panels",
+        "6 Panels",
+        "8 Panels",
+        "12 Panels"
+      ],
+      "defaultOption": "8 Panels",
+      "defaultSize": 38
+    },
+    {
+      "id": "105",
+      "garmentId": "10",
+      "name": "Hem Finish",
+      "type": "hem",
+      "options": [
+        "Straight",
+        "Pointed",
+        "Scalloped",
+        "Curved"
+      ],
+      "defaultOption": "Pointed",
+      "defaultSize": 38
+    },
+    {
+      "id": "106",
+      "garmentId": "11",
+      "name": "Waistband",
+      "type": "waistband",
+      "options": [
+        "Classic",
+        "Wide",
+        "Contoured",
+        "Elastic",
+        "Paperbag"
+      ],
+      "defaultOption": "Classic",
+      "defaultSize": 38
+    },
+    {
+      "id": "107",
+      "garmentId": "11",
+      "name": "Rise",
+      "type": "rise",
+      "options": [
+        "Low Rise",
+        "Mid Rise",
+        "High Rise",
+        "Ultra High Rise"
+      ],
+      "defaultOption": "High Rise",
+      "defaultSize": 38
+    },
+    {
+      "id": "108",
+      "garmentId": "11",
+      "name": "Left Leg",
+      "type": "legShape",
+      "options": [
+        "Wide",
+        "Extra Wide",
+        "Palazzo",
+        "Straight",
+        "Tapered"
+      ],
+      "defaultOption": "Wide",
+      "defaultSize": 38,
+      "side": "left"
+    },
+    {
+      "id": "109",
+      "garmentId": "11",
+      "name": "Right Leg",
+      "type": "legShape",
+      "options": [
+        "Wide",
+        "Extra Wide",
+        "Palazzo",
+        "Straight",
+        "Tapered"
+      ],
+      "defaultOption": "Wide",
+      "defaultSize": 38,
+      "side": "right"
+    },
+    {
+      "id": "110",
+      "garmentId": "11",
+      "name": "Closure",
+      "type": "closure",
+      "options": [
+        "Zipper",
+        "Button",
+        "Hook and Eye",
+        "Drawstring"
+      ],
+      "defaultOption": "Zipper",
+      "defaultSize": 38
+    },
+    {
+      "id": "111",
+      "garmentId": "11",
+      "name": "Pleats",
+      "type": "pleats",
+      "options": [
+        "None",
+        "Single Pleat",
+        "Double Pleat",
+        "Inverted Pleat"
+      ],
+      "defaultOption": "None",
+      "defaultSize": 38
+    },
+    {
+      "id": "112",
+      "garmentId": "11",
+      "name": "Front Pockets",
+      "type": "frontPockets",
+      "options": [
+        "None",
+        "Side Seam",
+        "Slanted",
+        "Patch"
+      ],
+      "defaultOption": "Slanted",
+      "defaultSize": 38
+    },
+    {
+      "id": "113",
+      "garmentId": "11",
+      "name": "Back Pockets",
+      "type": "backPockets",
+      "options": [
+        "None",
+        "Welt",
+        "Single Patch",
+        "Double Patch"
+      ],
+      "defaultOption": "Welt",
+      "defaultSize": 38
+    },
+    {
+      "id": "114",
+      "garmentId": "11",
+      "name": "Left Hem",
+      "type": "hem",
+      "options": [
+        "Straight",
+        "Turn-up",
+        "Cuffed",
+        "Raw Edge"
+      ],
+      "defaultOption": "Straight",
+      "defaultSize": 38,
+      "side": "left"
+    },
+    {
+      "id": "115",
+      "garmentId": "11",
+      "name": "Right Hem",
+      "type": "hem",
+      "options": [
+        "Straight",
+        "Turn-up",
+        "Cuffed",
+        "Raw Edge"
+      ],
+      "defaultOption": "Straight",
+      "defaultSize": 38,
+      "side": "right"
+    },
+    {
+      "id": "116",
+      "garmentId": "11",
+      "name": "Belt Loops",
+      "type": "beltLoops",
+      "options": [
+        "None",
+        "Standard",
+        "Wide",
+        "Decorative"
+      ],
+      "defaultOption": "Standard",
+      "defaultSize": 38
+    },
+    {
+      "id": "117",
+      "garmentId": "12",
+      "name": "Waistband",
+      "type": "waistband",
+      "options": [
+        "Classic",
+        "Wide",
+        "Contoured",
+        "Elastic"
+      ],
+      "defaultOption": "Classic",
+      "defaultSize": 38
+    },
+    {
+      "id": "118",
+      "garmentId": "12",
+      "name": "Rise",
+      "type": "rise",
+      "options": [
+        "Low Rise",
+        "Mid Rise",
+        "High Rise",
+        "Ultra High Rise"
+      ],
+      "defaultOption": "Mid Rise",
+      "defaultSize": 38
+    },
+    {
+      "id": "119",
+      "garmentId": "12",
+      "name": "Left Leg",
+      "type": "legShape",
+      "options": [
+        "Straight",
+        "Slim Straight",
+        "Relaxed Straight",
+        "Wide",
+        "Tapered"
+      ],
+      "defaultOption": "Straight",
+      "defaultSize": 38,
+      "side": "left"
+    },
+    {
+      "id": "120",
+      "garmentId": "12",
+      "name": "Right Leg",
+      "type": "legShape",
+      "options": [
+        "Straight",
+        "Slim Straight",
+        "Relaxed Straight",
+        "Wide",
+        "Tapered"
+      ],
+      "defaultOption": "Straight",
+      "defaultSize": 38,
+      "side": "right"
+    },
+    {
+      "id": "121",
+      "garmentId": "12",
+      "name": "Closure",
+      "type": "closure",
+      "options": [
+        "Zipper",
+        "Button",
+        "Hook and Eye",
+        "Drawstring"
+      ],
+      "defaultOption": "Zipper",
+      "defaultSize": 38
+    },
+    {
+      "id": "122",
+      "garmentId": "12",
+      "name": "Pleats",
+      "type": "pleats",
+      "options": [
+        "None",
+        "Single Pleat",
+        "Double Pleat",
+        "Inverted Pleat"
+      ],
+      "defaultOption": "None",
+      "defaultSize": 38
+    },
+    {
+      "id": "123",
+      "garmentId": "12",
+      "name": "Front Pockets",
+      "type": "frontPockets",
+      "options": [
+        "None",
+        "Side Seam",
+        "Slanted",
+        "Patch"
+      ],
+      "defaultOption": "Slanted",
+      "defaultSize": 38
+    },
+    {
+      "id": "124",
+      "garmentId": "12",
+      "name": "Back Pockets",
+      "type": "backPockets",
+      "options": [
+        "None",
+        "Welt",
+        "Single Patch",
+        "Double Patch"
+      ],
+      "defaultOption": "Welt",
+      "defaultSize": 38
+    },
+    {
+      "id": "125",
+      "garmentId": "12",
+      "name": "Left Hem",
+      "type": "hem",
+      "options": [
+        "Straight",
+        "Turn-up",
+        "Cuffed",
+        "Raw Edge"
+      ],
+      "defaultOption": "Straight",
+      "defaultSize": 38,
+      "side": "left"
+    },
+    {
+      "id": "126",
+      "garmentId": "12",
+      "name": "Right Hem",
+      "type": "hem",
+      "options": [
+        "Straight",
+        "Turn-up",
+        "Cuffed",
+        "Raw Edge"
+      ],
+      "defaultOption": "Straight",
+      "defaultSize": 38,
+      "side": "right"
+    },
+    {
+      "id": "127",
+      "garmentId": "12",
+      "name": "Belt Loops",
+      "type": "beltLoops",
+      "options": [
+        "None",
+        "Standard",
+        "Wide",
+        "Decorative"
+      ],
+      "defaultOption": "Standard",
+      "defaultSize": 38
+    },
+    {
+      "id": "128",
+      "garmentId": "13",
+      "name": "Waistband",
+      "type": "waistband",
+      "options": [
+        "Classic",
+        "Wide",
+        "Contoured",
+        "Elastic"
+      ],
+      "defaultOption": "Classic",
+      "defaultSize": 38
+    },
+    {
+      "id": "129",
+      "garmentId": "13",
+      "name": "Rise",
+      "type": "rise",
+      "options": [
+        "Low Rise",
+        "Mid Rise",
+        "High Rise",
+        "Ultra High Rise"
+      ],
+      "defaultOption": "Mid Rise",
+      "defaultSize": 38
+    },
+    {
+      "id": "130",
+      "garmentId": "13",
+      "name": "Left Leg",
+      "type": "legShape",
+      "options": [
+        "Bootcut",
+        "Flared",
+        "Wide Flare",
+        "Bell Bottom",
+        "Subtle Flare"
+      ],
+      "defaultOption": "Flared",
+      "defaultSize": 38,
+      "side": "left"
+    },
+    {
+      "id": "131",
+      "garmentId": "13",
+      "name": "Right Leg",
+      "type": "legShape",
+      "options": [
+        "Bootcut",
+        "Flared",
+        "Wide Flare",
+        "Bell Bottom",
+        "Subtle Flare"
+      ],
+      "defaultOption": "Flared",
+      "defaultSize": 38,
+      "side": "right"
+    },
+    {
+      "id": "132",
+      "garmentId": "13",
+      "name": "Closure",
+      "type": "closure",
+      "options": [
+        "Zipper",
+        "Button",
+        "Hook and Eye",
+        "Drawstring"
+      ],
+      "defaultOption": "Zipper",
+      "defaultSize": 38
+    },
+    {
+      "id": "133",
+      "garmentId": "13",
+      "name": "Pleats",
+      "type": "pleats",
+      "options": [
+        "None",
+        "Single Pleat",
+        "Double Pleat"
+      ],
+      "defaultOption": "None",
+      "defaultSize": 38
+    },
+    {
+      "id": "134",
+      "garmentId": "13",
+      "name": "Front Pockets",
+      "type": "frontPockets",
+      "options": [
+        "None",
+        "Side Seam",
+        "Slanted",
+        "Patch"
+      ],
+      "defaultOption": "Slanted",
+      "defaultSize": 38
+    },
+    {
+      "id": "135",
+      "garmentId": "13",
+      "name": "Back Pockets",
+      "type": "backPockets",
+      "options": [
+        "None",
+        "Welt",
+        "Single Patch",
+        "Double Patch"
+      ],
+      "defaultOption": "Single Patch",
+      "defaultSize": 38
+    },
+    {
+      "id": "136",
+      "garmentId": "13",
+      "name": "Left Hem",
+      "type": "hem",
+      "options": [
+        "Straight",
+        "Turn-up",
+        "Raw Edge",
+        "Frayed"
+      ],
+      "defaultOption": "Straight",
+      "defaultSize": 38,
+      "side": "left"
+    },
+    {
+      "id": "137",
+      "garmentId": "13",
+      "name": "Right Hem",
+      "type": "hem",
+      "options": [
+        "Straight",
+        "Turn-up",
+        "Raw Edge",
+        "Frayed"
+      ],
+      "defaultOption": "Straight",
+      "defaultSize": 38,
+      "side": "right"
+    },
+    {
+      "id": "138",
+      "garmentId": "13",
+      "name": "Belt Loops",
+      "type": "beltLoops",
+      "options": [
+        "None",
+        "Standard",
+        "Wide",
+        "Decorative"
+      ],
+      "defaultOption": "Standard",
+      "defaultSize": 38
+    },
+    {
+      "id": "139",
+      "garmentId": "14",
+      "name": "Waistband",
+      "type": "waistband",
+      "options": [
+        "Classic",
+        "Wide",
+        "Contoured",
+        "Elastic",
+        "Drawstring"
+      ],
+      "defaultOption": "Classic",
+      "defaultSize": 38
+    },
+    {
+      "id": "140",
+      "garmentId": "14",
+      "name": "Rise",
+      "type": "rise",
+      "options": [
+        "Low Rise",
+        "Mid Rise",
+        "High Rise",
+        "Ultra High Rise"
+      ],
+      "defaultOption": "Mid Rise",
+      "defaultSize": 38
+    },
+    {
+      "id": "141",
+      "garmentId": "14",
+      "name": "Left Leg",
+      "type": "legShape",
+      "options": [
+        "Tapered",
+        "Slim Tapered",
+        "Relaxed Tapered",
+        "Carrot"
+      ],
+      "defaultOption": "Tapered",
+      "defaultSize": 38,
+      "side": "left"
+    },
+    {
+      "id": "142",
+      "garmentId": "14",
+      "name": "Right Leg",
+      "type": "legShape",
+      "options": [
+        "Tapered",
+        "Slim Tapered",
+        "Relaxed Tapered",
+        "Carrot"
+      ],
+      "defaultOption": "Tapered",
+      "defaultSize": 38,
+      "side": "right"
+    },
+    {
+      "id": "143",
+      "garmentId": "14",
+      "name": "Closure",
+      "type": "closure",
+      "options": [
+        "Zipper",
+        "Button",
+        "Hook and Eye",
+        "Drawstring"
+      ],
+      "defaultOption": "Zipper",
+      "defaultSize": 38
+    },
+    {
+      "id": "144",
+      "garmentId": "14",
+      "name": "Pleats",
+      "type": "pleats",
+      "options": [
+        "None",
+        "Single Pleat",
+        "Double Pleat",
+        "Inverted Pleat"
+      ],
+      "defaultOption": "Single Pleat",
+      "defaultSize": 38
+    },
+    {
+      "id": "145",
+      "garmentId": "14",
+      "name": "Front Pockets",
+      "type": "frontPockets",
+      "options": [
+        "None",
+        "Side Seam",
+        "Slanted",
+        "Patch"
+      ],
+      "defaultOption": "Slanted",
+      "defaultSize": 38
+    },
+    {
+      "id": "146",
+      "garmentId": "14",
+      "name": "Back Pockets",
+      "type": "backPockets",
+      "options": [
+        "None",
+        "Welt",
+        "Single Patch",
+        "Double Patch"
+      ],
+      "defaultOption": "Welt",
+      "defaultSize": 38
+    },
+    {
+      "id": "147",
+      "garmentId": "14",
+      "name": "Left Hem",
+      "type": "hem",
+      "options": [
+        "Straight",
+        "Turn-up",
+        "Cuffed",
+        "Elastic"
+      ],
+      "defaultOption": "Cuffed",
+      "defaultSize": 38,
+      "side": "left"
+    },
+    {
+      "id": "148",
+      "garmentId": "14",
+      "name": "Right Hem",
+      "type": "hem",
+      "options": [
+        "Straight",
+        "Turn-up",
+        "Cuffed",
+        "Elastic"
+      ],
+      "defaultOption": "Cuffed",
+      "defaultSize": 38,
+      "side": "right"
+    },
+    {
+      "id": "149",
+      "garmentId": "14",
+      "name": "Belt Loops",
+      "type": "beltLoops",
+      "options": [
+        "None",
+        "Standard",
+        "Wide",
+        "Decorative"
+      ],
+      "defaultOption": "Standard",
+      "defaultSize": 38
+    },
+    {
+      "id": "150",
+      "garmentId": "15",
+      "name": "Waistband",
+      "type": "waistband",
+      "options": [
+        "Classic",
+        "Elastic",
+        "Adjustable",
+        "Drawstring"
+      ],
+      "defaultOption": "Adjustable",
+      "defaultSize": 38
+    },
+    {
+      "id": "151",
+      "garmentId": "15",
+      "name": "Rise",
+      "type": "rise",
+      "options": [
+        "Low Rise",
+        "Mid Rise",
+        "High Rise"
+      ],
+      "defaultOption": "Mid Rise",
+      "defaultSize": 38
+    },
+    {
+      "id": "152",
+      "garmentId": "15",
+      "name": "Left Leg",
+      "type": "legShape",
+      "options": [
+        "Relaxed",
+        "Straight",
+        "Wide",
+        "Tapered",
+        "Slim"
+      ],
+      "defaultOption": "Relaxed",
+      "defaultSize": 38,
+      "side": "left"
+    },
+    {
+      "id": "153",
+      "garmentId": "15",
+      "name": "Right Leg",
+      "type": "legShape",
+      "options": [
+        "Relaxed",
+        "Straight",
+        "Wide",
+        "Tapered",
+        "Slim"
+      ],
+      "defaultOption": "Relaxed",
+      "defaultSize": 38,
+      "side": "right"
+    },
+    {
+      "id": "154",
+      "garmentId": "15",
+      "name": "Closure",
+      "type": "closure",
+      "options": [
+        "Zipper",
+        "Button",
+        "Snap Button",
+        "Drawstring"
+      ],
+      "defaultOption": "Zipper",
+      "defaultSize": 38
+    },
+    {
+      "id": "155",
+      "garmentId": "15",
+      "name": "Pleats",
+      "type": "pleats",
+      "options": [
+        "None",
+        "Single Pleat",
+        "Double Pleat"
+      ],
+      "defaultOption": "None",
+      "defaultSize": 38
+    },
+    {
+      "id": "156",
+      "garmentId": "15",
+      "name": "Front Pockets",
+      "type": "frontPockets",
+      "options": [
+        "None",
+        "Side Seam",
+        "Slanted",
+        "Patch"
+      ],
+      "defaultOption": "Slanted",
+      "defaultSize": 38
+    },
+    {
+      "id": "157",
+      "garmentId": "15",
+      "name": "Back Pockets",
+      "type": "backPockets",
+      "options": [
+        "None",
+        "Welt",
+        "Single Patch",
+        "Double Patch"
+      ],
+      "defaultOption": "Single Patch",
+      "defaultSize": 38
+    },
+    {
+      "id": "158",
+      "garmentId": "15",
+      "name": "Left Cargo Pocket",
+      "type": "cargoPocket",
+      "options": [
+        "None",
+        "Flat",
+        "Bellows",
+        "Expandable",
+        "Double Pocket"
+      ],
+      "defaultOption": "Bellows",
+      "defaultSize": 38,
+      "side": "left"
+    },
+    {
+      "id": "159",
+      "garmentId": "15",
+      "name": "Right Cargo Pocket",
+      "type": "cargoPocket",
+      "options": [
+        "None",
+        "Flat",
+        "Bellows",
+        "Expandable",
+        "Double Pocket"
+      ],
+      "defaultOption": "Bellows",
+      "defaultSize": 38,
+      "side": "right"
+    },
+    {
+      "id": "160",
+      "garmentId": "15",
+      "name": "Left Hem",
+      "type": "hem",
+      "options": [
+        "Straight",
+        "Elastic",
+        "Drawstring",
+        "Adjustable Tab"
+      ],
+      "defaultOption": "Elastic",
+      "defaultSize": 38,
+      "side": "left"
+    },
+    {
+      "id": "161",
+      "garmentId": "15",
+      "name": "Right Hem",
+      "type": "hem",
+      "options": [
+        "Straight",
+        "Elastic",
+        "Drawstring",
+        "Adjustable Tab"
+      ],
+      "defaultOption": "Elastic",
+      "defaultSize": 38,
+      "side": "right"
+    },
+    {
+      "id": "162",
+      "garmentId": "15",
+      "name": "Belt Loops",
+      "type": "beltLoops",
+      "options": [
+        "None",
+        "Standard",
+        "Wide",
+        "Utility"
+      ],
+      "defaultOption": "Standard",
+      "defaultSize": 38
+    },
+    {
+      "id": "163",
+      "garmentId": "15",
+      "name": "Knee Details",
+      "type": "kneeDetails",
+      "options": [
+        "None",
+        "Reinforced Panels",
+        "Knee Pleats",
+        "Articulated Seams"
+      ],
+      "defaultOption": "None",
+      "defaultSize": 38
+    },
+    {
+      "id": "164",
+      "garmentId": "16",
+      "name": "Collar",
+      "type": "collar",
+      "options": [
+        "Classic Point",
+        "Spread",
+        "Button-Down",
+        "Mandarin",
+        "Peter Pan"
+      ],
+      "defaultOption": "Classic Point",
+      "defaultSize": 38
+    },
+    {
+      "id": "165",
+      "garmentId": "16",
+      "name": "Neckline",
+      "type": "neckline",
+      "options": [
+        "Buttoned",
+        "Open Collar",
+        "Deep V",
+        "Closed"
+      ],
+      "defaultOption": "Buttoned",
+      "defaultSize": 38
+    },
+    {
+      "id": "166",
+      "garmentId": "16",
+      "name": "Bodice Fit",
+      "type": "bodiceFit",
+      "options": [
+        "Fitted",
+        "Regular",
+        "Relaxed",
+        "Oversized"
+      ],
+      "defaultOption": "Regular",
+      "defaultSize": 38
+    },
+    {
+      "id": "167",
+      "garmentId": "16",
+      "name": "Left Sleeve",
+      "type": "sleeveShape",
+      "options": [
+        "Sleeveless",
+        "Cap",
+        "Short",
+        "Elbow",
+        "Long",
+        "Puff",
+        "Bell"
+      ],
+      "defaultOption": "Long",
+      "defaultSize": 38,
+      "side": "left"
+    },
+    {
+      "id": "168",
+      "garmentId": "16",
+      "name": "Right Sleeve",
+      "type": "sleeveShape",
+      "options": [
+        "Sleeveless",
+        "Cap",
+        "Short",
+        "Elbow",
+        "Long",
+        "Puff",
+        "Bell"
+      ],
+      "defaultOption": "Long",
+      "defaultSize": 38,
+      "side": "right"
+    },
+    {
+      "id": "169",
+      "garmentId": "16",
+      "name": "Left Cuff",
+      "type": "cuff",
+      "options": [
+        "Simple",
+        "Buttoned",
+        "Double Button",
+        "French Cuff",
+        "Wide"
+      ],
+      "defaultOption": "Buttoned",
+      "defaultSize": 38,
+      "side": "left"
+    },
+    {
+      "id": "170",
+      "garmentId": "16",
+      "name": "Right Cuff",
+      "type": "cuff",
+      "options": [
+        "Simple",
+        "Buttoned",
+        "Double Button",
+        "French Cuff",
+        "Wide"
+      ],
+      "defaultOption": "Buttoned",
+      "defaultSize": 38,
+      "side": "right"
+    },
+    {
+      "id": "171",
+      "garmentId": "16",
+      "name": "Closure",
+      "type": "closure",
+      "options": [
+        "Visible Buttons",
+        "Hidden Buttons",
+        "Snap Buttons",
+        "Zipper"
+      ],
+      "defaultOption": "Visible Buttons",
+      "defaultSize": 38
+    },
+    {
+      "id": "172",
+      "garmentId": "16",
+      "name": "Front Pockets",
+      "type": "frontPockets",
+      "options": [
+        "None",
+        "Single Patch",
+        "Double Patch",
+        "Flap Pocket"
+      ],
+      "defaultOption": "Single Patch",
+      "defaultSize": 38
+    },
+    {
+      "id": "173",
+      "garmentId": "16",
+      "name": "Darts",
+      "type": "darts",
+      "options": [
+        "None",
+        "Front Darts",
+        "Back Darts",
+        "Front and Back Darts"
+      ],
+      "defaultOption": "Back Darts",
+      "defaultSize": 38
+    },
+    {
+      "id": "174",
+      "garmentId": "16",
+      "name": "Length",
+      "type": "length",
+      "options": [
+        "Cropped",
+        "Waist",
+        "Hip",
+        "Longline"
+      ],
+      "defaultOption": "Hip",
+      "defaultSize": 38
+    },
+    {
+      "id": "175",
+      "garmentId": "16",
+      "name": "Hem",
+      "type": "hem",
+      "options": [
+        "Straight",
+        "Curved",
+        "Shirt Tail",
+        "High-Low"
+      ],
+      "defaultOption": "Curved",
+      "defaultSize": 38
+    },
+    {
+      "id": "176",
+      "garmentId": "17",
+      "name": "Collar",
+      "type": "collar",
+      "options": [
+        "Classic Point",
+        "Spread",
+        "Button-Down",
+        "Mandarin",
+        "Large Collar"
+      ],
+      "defaultOption": "Spread",
+      "defaultSize": 38
+    },
+    {
+      "id": "177",
+      "garmentId": "17",
+      "name": "Neckline",
+      "type": "neckline",
+      "options": [
+        "Buttoned",
+        "Open Collar",
+        "Deep V",
+        "Closed"
+      ],
+      "defaultOption": "Open Collar",
+      "defaultSize": 38
+    },
+    {
+      "id": "178",
+      "garmentId": "17",
+      "name": "Bodice Fit",
+      "type": "bodiceFit",
+      "options": [
+        "Relaxed",
+        "Oversized",
+        "Extra Oversized",
+        "Dropped Shoulder"
+      ],
+      "defaultOption": "Oversized",
+      "defaultSize": 38
+    },
+    {
+      "id": "179",
+      "garmentId": "17",
+      "name": "Left Sleeve",
+      "type": "sleeveShape",
+      "options": [
+        "Short",
+        "Elbow",
+        "Long",
+        "Extra Long",
+        "Dropped Shoulder"
+      ],
+      "defaultOption": "Long",
+      "defaultSize": 38,
+      "side": "left"
+    },
+    {
+      "id": "180",
+      "garmentId": "17",
+      "name": "Right Sleeve",
+      "type": "sleeveShape",
+      "options": [
+        "Short",
+        "Elbow",
+        "Long",
+        "Extra Long",
+        "Dropped Shoulder"
+      ],
+      "defaultOption": "Long",
+      "defaultSize": 38,
+      "side": "right"
+    },
+    {
+      "id": "181",
+      "garmentId": "17",
+      "name": "Left Cuff",
+      "type": "cuff",
+      "options": [
+        "Simple",
+        "Buttoned",
+        "Wide",
+        "Turn-Up"
+      ],
+      "defaultOption": "Buttoned",
+      "defaultSize": 38,
+      "side": "left"
+    },
+    {
+      "id": "182",
+      "garmentId": "17",
+      "name": "Right Cuff",
+      "type": "cuff",
+      "options": [
+        "Simple",
+        "Buttoned",
+        "Wide",
+        "Turn-Up"
+      ],
+      "defaultOption": "Buttoned",
+      "defaultSize": 38,
+      "side": "right"
+    },
+    {
+      "id": "183",
+      "garmentId": "17",
+      "name": "Closure",
+      "type": "closure",
+      "options": [
+        "Visible Buttons",
+        "Hidden Buttons",
+        "Snap Buttons",
+        "Open Front"
+      ],
+      "defaultOption": "Visible Buttons",
+      "defaultSize": 38
+    },
+    {
+      "id": "184",
+      "garmentId": "17",
+      "name": "Front Pockets",
+      "type": "frontPockets",
+      "options": [
+        "None",
+        "Single Oversized Patch",
+        "Double Patch",
+        "Flap Pocket"
+      ],
+      "defaultOption": "Single Oversized Patch",
+      "defaultSize": 38
+    },
+    {
+      "id": "185",
+      "garmentId": "17",
+      "name": "Shoulder",
+      "type": "shoulder",
+      "options": [
+        "Classic",
+        "Dropped",
+        "Extended"
+      ],
+      "defaultOption": "Dropped",
+      "defaultSize": 38
+    },
+    {
+      "id": "186",
+      "garmentId": "17",
+      "name": "Length",
+      "type": "length",
+      "options": [
+        "Cropped",
+        "Hip",
+        "Longline",
+        "Tunic"
+      ],
+      "defaultOption": "Longline",
+      "defaultSize": 38
+    },
+    {
+      "id": "187",
+      "garmentId": "17",
+      "name": "Hem",
+      "type": "hem",
+      "options": [
+        "Straight",
+        "Curved",
+        "Shirt Tail",
+        "High-Low"
+      ],
+      "defaultOption": "Shirt Tail",
+      "defaultSize": 38
+    },
+    {
+      "id": "188",
+      "garmentId": "18",
+      "name": "Collar",
+      "type": "collar",
+      "options": [
+        "Classic Point",
+        "Spread",
+        "Mandarin",
+        "Peter Pan",
+        "No Collar"
+      ],
+      "defaultOption": "Classic Point",
+      "defaultSize": 38
+    },
+    {
+      "id": "189",
+      "garmentId": "18",
+      "name": "Neckline",
+      "type": "neckline",
+      "options": [
+        "Buttoned",
+        "Open Collar",
+        "Square",
+        "V-Neck",
+        "Sweetheart"
+      ],
+      "defaultOption": "Open Collar",
+      "defaultSize": 38
+    },
+    {
+      "id": "190",
+      "garmentId": "18",
+      "name": "Bodice Fit",
+      "type": "bodiceFit",
+      "options": [
+        "Fitted",
+        "Regular",
+        "Relaxed",
+        "Boxy"
+      ],
+      "defaultOption": "Boxy",
+      "defaultSize": 38
+    },
+    {
+      "id": "191",
+      "garmentId": "18",
+      "name": "Left Sleeve",
+      "type": "sleeveShape",
+      "options": [
+        "Sleeveless",
+        "Cap",
+        "Short",
+        "Elbow",
+        "Long",
+        "Puff"
+      ],
+      "defaultOption": "Short",
+      "defaultSize": 38,
+      "side": "left"
+    },
+    {
+      "id": "192",
+      "garmentId": "18",
+      "name": "Right Sleeve",
+      "type": "sleeveShape",
+      "options": [
+        "Sleeveless",
+        "Cap",
+        "Short",
+        "Elbow",
+        "Long",
+        "Puff"
+      ],
+      "defaultOption": "Short",
+      "defaultSize": 38,
+      "side": "right"
+    },
+    {
+      "id": "193",
+      "garmentId": "18",
+      "name": "Left Cuff",
+      "type": "cuff",
+      "options": [
+        "None",
+        "Simple",
+        "Buttoned",
+        "Elastic",
+        "Gathered"
+      ],
+      "defaultOption": "None",
+      "defaultSize": 38,
+      "side": "left"
+    },
+    {
+      "id": "194",
+      "garmentId": "18",
+      "name": "Right Cuff",
+      "type": "cuff",
+      "options": [
+        "None",
+        "Simple",
+        "Buttoned",
+        "Elastic",
+        "Gathered"
+      ],
+      "defaultOption": "None",
+      "defaultSize": 38,
+      "side": "right"
+    },
+    {
+      "id": "195",
+      "garmentId": "18",
+      "name": "Closure",
+      "type": "closure",
+      "options": [
+        "Visible Buttons",
+        "Hidden Buttons",
+        "Tie Front",
+        "Snap Buttons"
+      ],
+      "defaultOption": "Visible Buttons",
+      "defaultSize": 38
+    },
+    {
+      "id": "196",
+      "garmentId": "18",
+      "name": "Front Pockets",
+      "type": "frontPockets",
+      "options": [
+        "None",
+        "Single Patch",
+        "Double Patch"
+      ],
+      "defaultOption": "None",
+      "defaultSize": 38
+    },
+    {
+      "id": "197",
+      "garmentId": "18",
+      "name": "Waist Detail",
+      "type": "waistDetail",
+      "options": [
+        "Straight",
+        "Elasticated",
+        "Drawstring",
+        "Tie Front"
+      ],
+      "defaultOption": "Straight",
+      "defaultSize": 38
+    },
+    {
+      "id": "198",
+      "garmentId": "18",
+      "name": "Length",
+      "type": "length",
+      "options": [
+        "Above Waist",
+        "Waist",
+        "High Hip"
+      ],
+      "defaultOption": "Waist",
+      "defaultSize": 38
+    },
+    {
+      "id": "199",
+      "garmentId": "18",
+      "name": "Hem",
+      "type": "hem",
+      "options": [
+        "Straight",
+        "Curved",
+        "Elasticated",
+        "Tie Finish"
+      ],
+      "defaultOption": "Straight",
+      "defaultSize": 38
+    },
+    {
+      "id": "200",
+      "garmentId": "19",
+      "name": "Collar",
+      "type": "collar",
+      "options": [
+        "Classic Point",
+        "Peter Pan",
+        "Mandarin",
+        "Ruffle Collar",
+        "No Collar"
+      ],
+      "defaultOption": "Peter Pan",
+      "defaultSize": 38
+    },
+    {
+      "id": "201",
+      "garmentId": "19",
+      "name": "Neckline",
+      "type": "neckline",
+      "options": [
+        "Round",
+        "Square",
+        "Sweetheart",
+        "V-Neck",
+        "Boat",
+        "Open"
+      ],
+      "defaultOption": "Square",
+      "defaultSize": 38
+    },
+    {
+      "id": "202",
+      "garmentId": "19",
+      "name": "Bodice Fit",
+      "type": "bodiceFit",
+      "options": [
+        "Fitted",
+        "Regular",
+        "Relaxed",
+        "Corset Inspired"
+      ],
+      "defaultOption": "Fitted",
+      "defaultSize": 38
+    },
+    {
+      "id": "203",
+      "garmentId": "19",
+      "name": "Left Sleeve",
+      "type": "sleeveShape",
+      "options": [
+        "Short Puff",
+        "Full Puff",
+        "Gathered Puff",
+        "Bishop",
+        "Balloon"
+      ],
+      "defaultOption": "Full Puff",
+      "defaultSize": 38,
+      "side": "left"
+    },
+    {
+      "id": "204",
+      "garmentId": "19",
+      "name": "Right Sleeve",
+      "type": "sleeveShape",
+      "options": [
+        "Short Puff",
+        "Full Puff",
+        "Gathered Puff",
+        "Bishop",
+        "Balloon"
+      ],
+      "defaultOption": "Full Puff",
+      "defaultSize": 38,
+      "side": "right"
+    },
+    {
+      "id": "205",
+      "garmentId": "19",
+      "name": "Left Sleeve Cuff",
+      "type": "cuff",
+      "options": [
+        "Elastic",
+        "Buttoned",
+        "Gathered",
+        "Wide",
+        "Smocked"
+      ],
+      "defaultOption": "Elastic",
+      "defaultSize": 38,
+      "side": "left"
+    },
+    {
+      "id": "206",
+      "garmentId": "19",
+      "name": "Right Sleeve Cuff",
+      "type": "cuff",
+      "options": [
+        "Elastic",
+        "Buttoned",
+        "Gathered",
+        "Wide",
+        "Smocked"
+      ],
+      "defaultOption": "Elastic",
+      "defaultSize": 38,
+      "side": "right"
+    },
+    {
+      "id": "207",
+      "garmentId": "19",
+      "name": "Closure",
+      "type": "closure",
+      "options": [
+        "Visible Buttons",
+        "Hidden Buttons",
+        "Back Buttons",
+        "Zipper",
+        "Tie Back"
+      ],
+      "defaultOption": "Back Buttons",
+      "defaultSize": 38
+    },
+    {
+      "id": "208",
+      "garmentId": "19",
+      "name": "Front Pockets",
+      "type": "frontPockets",
+      "options": [
+        "None",
+        "Single Patch",
+        "Double Patch"
+      ],
+      "defaultOption": "None",
+      "defaultSize": 38
+    },
+    {
+      "id": "209",
+      "garmentId": "19",
+      "name": "Shoulder Detail",
+      "type": "shoulderDetail",
+      "options": [
+        "Classic",
+        "Gathered",
+        "Raglan",
+        "Dropped"
+      ],
+      "defaultOption": "Gathered",
+      "defaultSize": 38
+    },
+    {
+      "id": "210",
+      "garmentId": "19",
+      "name": "Length",
+      "type": "length",
+      "options": [
+        "Cropped",
+        "Waist",
+        "Hip",
+        "Longline"
+      ],
+      "defaultOption": "Waist",
+      "defaultSize": 38
+    },
+    {
+      "id": "211",
+      "garmentId": "19",
+      "name": "Hem",
+      "type": "hem",
+      "options": [
+        "Straight",
+        "Curved",
+        "Elasticated",
+        "Peplum"
+      ],
+      "defaultOption": "Straight",
+      "defaultSize": 38
+    },
+    {
+      "id": "212",
+      "garmentId": "20",
+      "name": "Collar",
+      "type": "collar",
+      "options": [
+        "Classic Point",
+        "Spread",
+        "Mandarin",
+        "Peter Pan",
+        "No Collar"
+      ],
+      "defaultOption": "Mandarin",
+      "defaultSize": 38
+    },
+    {
+      "id": "213",
+      "garmentId": "20",
+      "name": "Neckline",
+      "type": "neckline",
+      "options": [
+        "Round",
+        "V-Neck",
+        "Square",
+        "Boat",
+        "High Neck",
+        "Keyhole"
+      ],
+      "defaultOption": "V-Neck",
+      "defaultSize": 38
+    },
+    {
+      "id": "214",
+      "garmentId": "20",
+      "name": "Bodice Fit",
+      "type": "bodiceFit",
+      "options": [
+        "Fitted",
+        "Regular",
+        "Relaxed",
+        "Oversized"
+      ],
+      "defaultOption": "Regular",
+      "defaultSize": 38
+    },
+    {
+      "id": "215",
+      "garmentId": "20",
+      "name": "Left Armhole",
+      "type": "armhole",
+      "options": [
+        "Classic",
+        "High Cut",
+        "Deep Cut",
+        "Extended Shoulder"
+      ],
+      "defaultOption": "Classic",
+      "defaultSize": 38,
+      "side": "left"
+    },
+    {
+      "id": "216",
+      "garmentId": "20",
+      "name": "Right Armhole",
+      "type": "armhole",
+      "options": [
+        "Classic",
+        "High Cut",
+        "Deep Cut",
+        "Extended Shoulder"
+      ],
+      "defaultOption": "Classic",
+      "defaultSize": 38,
+      "side": "right"
+    },
+    {
+      "id": "217",
+      "garmentId": "20",
+      "name": "Shoulder Width",
+      "type": "shoulder",
+      "options": [
+        "Narrow",
+        "Classic",
+        "Wide",
+        "Extended"
+      ],
+      "defaultOption": "Classic",
+      "defaultSize": 38
+    },
+    {
+      "id": "218",
+      "garmentId": "20",
+      "name": "Closure",
+      "type": "closure",
+      "options": [
+        "Visible Buttons",
+        "Hidden Buttons",
+        "Back Buttons",
+        "Zipper",
+        "Tie Back"
+      ],
+      "defaultOption": "Visible Buttons",
+      "defaultSize": 38
+    },
+    {
+      "id": "219",
+      "garmentId": "20",
+      "name": "Front Pockets",
+      "type": "frontPockets",
+      "options": [
+        "None",
+        "Single Patch",
+        "Double Patch",
+        "Flap Pocket"
+      ],
+      "defaultOption": "None",
+      "defaultSize": 38
+    },
+    {
+      "id": "220",
+      "garmentId": "20",
+      "name": "Darts",
+      "type": "darts",
+      "options": [
+        "None",
+        "Front Darts",
+        "Back Darts",
+        "Front and Back Darts"
+      ],
+      "defaultOption": "Back Darts",
+      "defaultSize": 38
+    },
+    {
+      "id": "221",
+      "garmentId": "20",
+      "name": "Length",
+      "type": "length",
+      "options": [
+        "Cropped",
+        "Waist",
+        "Hip",
+        "Longline"
+      ],
+      "defaultOption": "Hip",
+      "defaultSize": 38
+    },
+    {
+      "id": "222",
+      "garmentId": "20",
+      "name": "Hem",
+      "type": "hem",
+      "options": [
+        "Straight",
+        "Curved",
+        "Shirt Tail",
+        "High-Low"
+      ],
+      "defaultOption": "Curved",
+      "defaultSize": 38
+    },
+    {
+      "id": "223",
+      "garmentId": "21",
+      "name": "Waistband",
+      "type": "waistband",
+      "options": [
+        "Classic",
+        "Wide",
+        "Contoured",
+        "Elastic",
+        "Paperbag"
+      ],
+      "defaultOption": "Classic",
+      "defaultSize": 38
+    },
+    {
+      "id": "224",
+      "garmentId": "21",
+      "name": "Rise",
+      "type": "rise",
+      "options": [
+        "Low Rise",
+        "Mid Rise",
+        "High Rise",
+        "Ultra High Rise"
+      ],
+      "defaultOption": "High Rise",
+      "defaultSize": 38
+    },
+    {
+      "id": "225",
+      "garmentId": "21",
+      "name": "Waist Fit",
+      "type": "waistFit",
+      "options": [
+        "Fitted",
+        "Relaxed",
+        "Adjustable"
+      ],
+      "defaultOption": "Fitted",
+      "defaultSize": 38
+    },
+    {
+      "id": "226",
+      "garmentId": "21",
+      "name": "Left Panel",
+      "type": "panel",
+      "options": [
+        "Straight",
+        "A-Line",
+        "Gored",
+        "Gathered"
+      ],
+      "defaultOption": "A-Line",
+      "defaultSize": 38,
+      "side": "left"
+    },
+    {
+      "id": "227",
+      "garmentId": "21",
+      "name": "Right Panel",
+      "type": "panel",
+      "options": [
+        "Straight",
+        "A-Line",
+        "Gored",
+        "Gathered"
+      ],
+      "defaultOption": "A-Line",
+      "defaultSize": 38,
+      "side": "right"
+    },
+    {
+      "id": "228",
+      "garmentId": "21",
+      "name": "Closure",
+      "type": "closure",
+      "options": [
+        "Invisible Zipper",
+        "Side Zipper",
+        "Buttons",
+        "Hook and Eye",
+        "Elastic"
+      ],
+      "defaultOption": "Invisible Zipper",
+      "defaultSize": 38
+    },
+    {
+      "id": "229",
+      "garmentId": "21",
+      "name": "Front Pockets",
+      "type": "frontPockets",
+      "options": [
+        "None",
+        "Side Seam",
+        "Patch",
+        "Slanted"
+      ],
+      "defaultOption": "None",
+      "defaultSize": 38
+    },
+    {
+      "id": "230",
+      "garmentId": "21",
+      "name": "Back Pockets",
+      "type": "backPockets",
+      "options": [
+        "None",
+        "Patch",
+        "Welt"
+      ],
+      "defaultOption": "None",
+      "defaultSize": 38
+    },
+    {
+      "id": "231",
+      "garmentId": "21",
+      "name": "Left Slit",
+      "type": "slit",
+      "options": [
+        "None",
+        "Front",
+        "Side",
+        "Back"
+      ],
+      "defaultOption": "None",
+      "defaultSize": 38,
+      "side": "left"
+    },
+    {
+      "id": "232",
+      "garmentId": "21",
+      "name": "Right Slit",
+      "type": "slit",
+      "options": [
+        "None",
+        "Front",
+        "Side",
+        "Back"
+      ],
+      "defaultOption": "None",
+      "defaultSize": 38,
+      "side": "right"
+    },
+    {
+      "id": "233",
+      "garmentId": "21",
+      "name": "Length",
+      "type": "length",
+      "options": [
+        "Mini",
+        "Above Knee",
+        "Knee",
+        "Midi",
+        "Maxi"
+      ],
+      "defaultOption": "Midi",
+      "defaultSize": 38
+    },
+    {
+      "id": "234",
+      "garmentId": "21",
+      "name": "Hem",
+      "type": "hem",
+      "options": [
+        "Straight",
+        "Curved",
+        "Scalloped",
+        "Asymmetric"
+      ],
+      "defaultOption": "Straight",
+      "defaultSize": 38
+    },
+    {
+      "id": "235",
+      "garmentId": "22",
+      "name": "Waistband",
+      "type": "waistband",
+      "options": [
+        "Classic",
+        "Wide",
+        "Contoured",
+        "Elastic"
+      ],
+      "defaultOption": "Classic",
+      "defaultSize": 38
+    },
+    {
+      "id": "236",
+      "garmentId": "22",
+      "name": "Rise",
+      "type": "rise",
+      "options": [
+        "Low Rise",
+        "Mid Rise",
+        "High Rise",
+        "Ultra High Rise"
+      ],
+      "defaultOption": "High Rise",
+      "defaultSize": 38
+    },
+    {
+      "id": "237",
+      "garmentId": "22",
+      "name": "Pleat Structure",
+      "type": "pleatStructure",
+      "options": [
+        "Knife Pleats",
+        "Box Pleats",
+        "Inverted Pleats",
+        "Accordion Pleats",
+        "Sunray Pleats"
+      ],
+      "defaultOption": "Knife Pleats",
+      "defaultSize": 38
+    },
+    {
+      "id": "238",
+      "garmentId": "22",
+      "name": "Left Panel",
+      "type": "panel",
+      "options": [
+        "Single Layer",
+        "Double Layer",
+        "Gored",
+        "Gathered"
+      ],
+      "defaultOption": "Single Layer",
+      "defaultSize": 38,
+      "side": "left"
+    },
+    {
+      "id": "239",
+      "garmentId": "22",
+      "name": "Right Panel",
+      "type": "panel",
+      "options": [
+        "Single Layer",
+        "Double Layer",
+        "Gored",
+        "Gathered"
+      ],
+      "defaultOption": "Single Layer",
+      "defaultSize": 38,
+      "side": "right"
+    },
+    {
+      "id": "240",
+      "garmentId": "22",
+      "name": "Pleat Depth",
+      "type": "pleatDepth",
+      "options": [
+        "Shallow",
+        "Medium",
+        "Deep",
+        "Extra Deep"
+      ],
+      "defaultOption": "Medium",
+      "defaultSize": 38
+    },
+    {
+      "id": "241",
+      "garmentId": "22",
+      "name": "Closure",
+      "type": "closure",
+      "options": [
+        "Invisible Zipper",
+        "Side Zipper",
+        "Buttons",
+        "Hook and Eye"
+      ],
+      "defaultOption": "Invisible Zipper",
+      "defaultSize": 38
+    },
+    {
+      "id": "242",
+      "garmentId": "22",
+      "name": "Pockets",
+      "type": "pockets",
+      "options": [
+        "None",
+        "Side Seam",
+        "Hidden Side",
+        "Patch"
+      ],
+      "defaultOption": "None",
+      "defaultSize": 38
+    },
+    {
+      "id": "243",
+      "garmentId": "22",
+      "name": "Length",
+      "type": "length",
+      "options": [
+        "Mini",
+        "Above Knee",
+        "Knee",
+        "Midi",
+        "Maxi"
+      ],
+      "defaultOption": "Mini",
+      "defaultSize": 38
+    },
+    {
+      "id": "244",
+      "garmentId": "22",
+      "name": "Hem",
+      "type": "hem",
+      "options": [
+        "Straight",
+        "Curved",
+        "Asymmetric"
+      ],
+      "defaultOption": "Straight",
+      "defaultSize": 38
+    },
+    {
+      "id": "245",
+      "garmentId": "22",
+      "name": "Lining",
+      "type": "lining",
+      "options": [
+        "None",
+        "Half Lining",
+        "Full Lining"
+      ],
+      "defaultOption": "None",
+      "defaultSize": 38
+    },
+    {
+      "id": "246",
+      "garmentId": "23",
+      "name": "Waistband",
+      "type": "waistband",
+      "options": [
+        "Classic",
+        "Wide",
+        "Contoured",
+        "Tie Waist"
+      ],
+      "defaultOption": "Tie Waist",
+      "defaultSize": 38
+    },
+    {
+      "id": "247",
+      "garmentId": "23",
+      "name": "Rise",
+      "type": "rise",
+      "options": [
+        "Low Rise",
+        "Mid Rise",
+        "High Rise"
+      ],
+      "defaultOption": "High Rise",
+      "defaultSize": 38
+    },
+    {
+      "id": "248",
+      "garmentId": "23",
+      "name": "Wrap Direction",
+      "type": "wrapDirection",
+      "options": [
+        "Left Over Right",
+        "Right Over Left",
+        "Reversible"
+      ],
+      "defaultOption": "Left Over Right",
+      "defaultSize": 38
+    },
+    {
+      "id": "249",
+      "garmentId": "23",
+      "name": "Left Panel",
+      "type": "panel",
+      "options": [
+        "Straight",
+        "A-Line",
+        "Gathered",
+        "Asymmetric"
+      ],
+      "defaultOption": "A-Line",
+      "defaultSize": 38,
+      "side": "left"
+    },
+    {
+      "id": "250",
+      "garmentId": "23",
+      "name": "Right Panel",
+      "type": "panel",
+      "options": [
+        "Straight",
+        "A-Line",
+        "Gathered",
+        "Asymmetric"
+      ],
+      "defaultOption": "A-Line",
+      "defaultSize": 38,
+      "side": "right"
+    },
+    {
+      "id": "251",
+      "garmentId": "23",
+      "name": "Closure",
+      "type": "closure",
+      "options": [
+        "Side Tie",
+        "Front Tie",
+        "Internal Tie",
+        "Buttons",
+        "Buckle"
+      ],
+      "defaultOption": "Side Tie",
+      "defaultSize": 38
+    },
+    {
+      "id": "252",
+      "garmentId": "23",
+      "name": "Overlap",
+      "type": "overlap",
+      "options": [
+        "Short",
+        "Medium",
+        "Deep",
+        "Adjustable"
+      ],
+      "defaultOption": "Deep",
+      "defaultSize": 38
+    },
+    {
+      "id": "253",
+      "garmentId": "23",
+      "name": "Pockets",
+      "type": "pockets",
+      "options": [
+        "None",
+        "Side Seam",
+        "Patch"
+      ],
+      "defaultOption": "None",
+      "defaultSize": 38
+    },
+    {
+      "id": "254",
+      "garmentId": "23",
+      "name": "Left Slit",
+      "type": "slit",
+      "options": [
+        "None",
+        "Front",
+        "Side"
+      ],
+      "defaultOption": "None",
+      "defaultSize": 38,
+      "side": "left"
+    },
+    {
+      "id": "255",
+      "garmentId": "23",
+      "name": "Right Slit",
+      "type": "slit",
+      "options": [
+        "None",
+        "Front",
+        "Side"
+      ],
+      "defaultOption": "None",
+      "defaultSize": 38,
+      "side": "right"
+    },
+    {
+      "id": "256",
+      "garmentId": "23",
+      "name": "Length",
+      "type": "length",
+      "options": [
+        "Mini",
+        "Above Knee",
+        "Knee",
+        "Midi",
+        "Maxi"
+      ],
+      "defaultOption": "Midi",
+      "defaultSize": 38
+    },
+    {
+      "id": "257",
+      "garmentId": "23",
+      "name": "Hem",
+      "type": "hem",
+      "options": [
+        "Straight",
+        "Curved",
+        "Asymmetric",
+        "Scalloped"
+      ],
+      "defaultOption": "Asymmetric",
+      "defaultSize": 38
+    },
+    {
+      "id": "258",
+      "garmentId": "24",
+      "name": "Waistband",
+      "type": "waistband",
+      "options": [
+        "Classic",
+        "Wide",
+        "Elastic",
+        "Paperbag"
+      ],
+      "defaultOption": "Elastic",
+      "defaultSize": 38
+    },
+    {
+      "id": "259",
+      "garmentId": "24",
+      "name": "Rise",
+      "type": "rise",
+      "options": [
+        "Low Rise",
+        "Mid Rise",
+        "High Rise"
+      ],
+      "defaultOption": "High Rise",
+      "defaultSize": 38
+    },
+    {
+      "id": "260",
+      "garmentId": "24",
+      "name": "Base Silhouette",
+      "type": "baseSilhouette",
+      "options": [
+        "A-Line",
+        "Straight",
+        "Fitted",
+        "Flared"
+      ],
+      "defaultOption": "A-Line",
+      "defaultSize": 38
+    },
+    {
+      "id": "261",
+      "garmentId": "24",
+      "name": "Left Ruffle",
+      "type": "ruffle",
+      "options": [
+        "None",
+        "Single Tier",
+        "Double Tier",
+        "Triple Tier",
+        "Asymmetric"
+      ],
+      "defaultOption": "Double Tier",
+      "defaultSize": 38,
+      "side": "left"
+    },
+    {
+      "id": "262",
+      "garmentId": "24",
+      "name": "Right Ruffle",
+      "type": "ruffle",
+      "options": [
+        "None",
+        "Single Tier",
+        "Double Tier",
+        "Triple Tier",
+        "Asymmetric"
+      ],
+      "defaultOption": "Double Tier",
+      "defaultSize": 38,
+      "side": "right"
+    },
+    {
+      "id": "263",
+      "garmentId": "24",
+      "name": "Ruffle Volume",
+      "type": "ruffleVolume",
+      "options": [
+        "Subtle",
+        "Medium",
+        "Full",
+        "Extra Full"
+      ],
+      "defaultOption": "Full",
+      "defaultSize": 38
+    },
+    {
+      "id": "264",
+      "garmentId": "24",
+      "name": "Ruffle Placement",
+      "type": "rufflePlacement",
+      "options": [
+        "Hem",
+        "Hip",
+        "Waist",
+        "All Over"
+      ],
+      "defaultOption": "Hem",
+      "defaultSize": 38
+    },
+    {
+      "id": "265",
+      "garmentId": "24",
+      "name": "Closure",
+      "type": "closure",
+      "options": [
+        "Invisible Zipper",
+        "Side Zipper",
+        "Buttons",
+        "Elastic",
+        "Drawstring"
+      ],
+      "defaultOption": "Elastic",
+      "defaultSize": 38
+    },
+    {
+      "id": "266",
+      "garmentId": "24",
+      "name": "Pockets",
+      "type": "pockets",
+      "options": [
+        "None",
+        "Side Seam",
+        "Patch"
+      ],
+      "defaultOption": "None",
+      "defaultSize": 38
+    },
+    {
+      "id": "267",
+      "garmentId": "24",
+      "name": "Length",
+      "type": "length",
+      "options": [
+        "Mini",
+        "Above Knee",
+        "Knee",
+        "Midi",
+        "Maxi"
+      ],
+      "defaultOption": "Mini",
+      "defaultSize": 38
+    },
+    {
+      "id": "268",
+      "garmentId": "24",
+      "name": "Hem",
+      "type": "hem",
+      "options": [
+        "Straight",
+        "Curved",
+        "Scalloped",
+        "Raw Edge"
+      ],
+      "defaultOption": "Scalloped",
+      "defaultSize": 38
+    },
+    {
+      "id": "269",
+      "garmentId": "24",
+      "name": "Lining",
+      "type": "lining",
+      "options": [
+        "None",
+        "Half Lining",
+        "Full Lining"
+      ],
+      "defaultOption": "None",
+      "defaultSize": 38
+    },
+    {
+      "id": "270",
+      "garmentId": "25",
+      "name": "Waistband",
+      "type": "waistband",
+      "options": [
+        "Classic",
+        "Wide",
+        "Contoured",
+        "No Waistband"
+      ],
+      "defaultOption": "Contoured",
+      "defaultSize": 38
+    },
+    {
+      "id": "271",
+      "garmentId": "25",
+      "name": "Rise",
+      "type": "rise",
+      "options": [
+        "Low Rise",
+        "Mid Rise",
+        "High Rise",
+        "Ultra High Rise"
+      ],
+      "defaultOption": "High Rise",
+      "defaultSize": 38
+    },
+    {
+      "id": "272",
+      "garmentId": "25",
+      "name": "Waist Fit",
+      "type": "waistFit",
+      "options": [
+        "Fitted",
+        "Structured",
+        "Relaxed"
+      ],
+      "defaultOption": "Fitted",
+      "defaultSize": 38
+    },
+    {
+      "id": "273",
+      "garmentId": "25",
+      "name": "Left Panel",
+      "type": "panel",
+      "options": [
+        "Classic",
+        "Shaped",
+        "Curved",
+        "Panelled"
+      ],
+      "defaultOption": "Classic",
+      "defaultSize": 38,
+      "side": "left"
+    },
+    {
+      "id": "274",
+      "garmentId": "25",
+      "name": "Right Panel",
+      "type": "panel",
+      "options": [
+        "Classic",
+        "Shaped",
+        "Curved",
+        "Panelled"
+      ],
+      "defaultOption": "Classic",
+      "defaultSize": 38,
+      "side": "right"
+    },
+    {
+      "id": "275",
+      "garmentId": "25",
+      "name": "Closure",
+      "type": "closure",
+      "options": [
+        "Invisible Zipper",
+        "Back Zipper",
+        "Side Zipper",
+        "Buttons"
+      ],
+      "defaultOption": "Back Zipper",
+      "defaultSize": 38
+    },
+    {
+      "id": "276",
+      "garmentId": "25",
+      "name": "Darts",
+      "type": "darts",
+      "options": [
+        "None",
+        "Front Darts",
+        "Back Darts",
+        "Front and Back Darts"
+      ],
+      "defaultOption": "Front and Back Darts",
+      "defaultSize": 38
+    },
+    {
+      "id": "277",
+      "garmentId": "25",
+      "name": "Front Slit",
+      "type": "slit",
+      "options": [
+        "None",
+        "Short",
+        "Medium",
+        "High"
+      ],
+      "defaultOption": "None",
+      "defaultSize": 38
+    },
+    {
+      "id": "278",
+      "garmentId": "25",
+      "name": "Back Slit",
+      "type": "slit",
+      "options": [
+        "None",
+        "Short",
+        "Medium",
+        "High"
+      ],
+      "defaultOption": "Medium",
+      "defaultSize": 38
+    },
+    {
+      "id": "279",
+      "garmentId": "25",
+      "name": "Pockets",
+      "type": "pockets",
+      "options": [
+        "None",
+        "Welt",
+        "Side Seam",
+        "Patch"
+      ],
+      "defaultOption": "None",
+      "defaultSize": 38
+    },
+    {
+      "id": "280",
+      "garmentId": "25",
+      "name": "Length",
+      "type": "length",
+      "options": [
+        "Above Knee",
+        "Knee",
+        "Below Knee",
+        "Midi"
+      ],
+      "defaultOption": "Knee",
+      "defaultSize": 38
+    },
+    {
+      "id": "281",
+      "garmentId": "25",
+      "name": "Hem",
+      "type": "hem",
+      "options": [
+        "Straight",
+        "Curved",
+        "Asymmetric"
+      ],
+      "defaultOption": "Straight",
+      "defaultSize": 38
+    },
+    {
+      "id": "282",
+      "garmentId": "25",
+      "name": "Lining",
+      "type": "lining",
+      "options": [
+        "None",
+        "Half Lining",
+        "Full Lining"
+      ],
+      "defaultOption": "Half Lining",
+      "defaultSize": 38
+    }
+  ]
 }
