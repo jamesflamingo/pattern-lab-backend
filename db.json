@@ -1,0 +1,85 @@
+
+{
+  "garments": [
+    {
+      "id": "1",
+      "name": "A-Line Dress",
+      "category": "Dress",
+      "description": "A fitted upper body with a skirt that gradually widens towards the hem.",
+      "silhouette": "A-line",
+      "customizableElements": [
+        "bodice",
+        "neckline",
+        "sleeves",
+        "waist",
+        "skirt",
+        "length"
+      ],
+      "image": "/images/a-line-dress.png"
+    },
+    {
+      "id": "2",
+      "name": "Sheath Dress",
+      "category": "Dress",
+      "description": "A fitted dress that follows the natural shape of the body.",
+      "silhouette": "Fitted",
+      "customizableElements": [
+        "bodice",
+        "neckline",
+        "sleeves",
+        "darts",
+        "length"
+      ],
+      "image": "/images/sheath-dress.png"
+    },
+    {
+      "id": "3",
+      "name": "Wrap Dress",
+      "category": "Dress",
+      "description": "A dress with overlapping front panels and an adjustable waist tie.",
+      "silhouette": "Wrap",
+      "customizableElements": [
+        "bodice",
+        "neckline",
+        "sleeves",
+        "waist",
+        "skirt",
+        "length"
+      ],
+      "image": "/images/wrap-dress.png"
+    },
+    {
+      "id": "4",
+      "name": "Slip Dress",
+      "category": "Dress",
+      "description": "A minimal dress with thin straps and a fluid silhouette.",
+      "silhouette": "Straight",
+      "customizableElements": [
+        "bodice",
+        "neckline",
+        "straps",
+        "skirt",
+        "length",
+        "slit"
+      ],
+      "image": "/images/slip-dress.png"
+    },
+    {
+      "id": "5",
+      "name": "Shirt Dress",
+      "category": "Dress",
+      "description": "A shirt-inspired dress with a collar, front buttons and optional waist belt.",
+      "silhouette": "Shirt",
+      "customizableElements": [
+        "collar",
+        "sleeves",
+        "cuffs",
+        "buttons",
+        "waist",
+        "skirt",
+        "length"
+      ],
+      "image": "/images/shirt-dress.png"
+    }
+  ]
+}
