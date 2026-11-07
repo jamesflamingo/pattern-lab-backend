@@ -7,15 +7,10 @@
       "category": "Dress",
       "description": "A fitted upper body with a skirt that gradually widens towards the hem.",
       "silhouette": "A-line",
-      "customizableElements": [
-        "bodice",
-        "neckline",
-        "sleeves",
-        "waist",
-        "skirt",
-        "length"
-      ],
-      "image": "/images/a-line-dress.png"
+      "customizableElements": ["bodice", "neckline", "sleeves", "waist", "skirt", "length"],
+      "image": "/images/a-line-dress.png",
+      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "defaultSize": 38
     },
     {
       "id": "2",
@@ -23,14 +18,10 @@
       "category": "Dress",
       "description": "A fitted dress that follows the natural shape of the body.",
       "silhouette": "Fitted",
-      "customizableElements": [
-        "bodice",
-        "neckline",
-        "sleeves",
-        "darts",
-        "length"
-      ],
-      "image": "/images/sheath-dress.png"
+      "customizableElements": ["bodice", "neckline", "sleeves", "darts", "length"],
+      "image": "/images/sheath-dress.png",
+      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "defaultSize": 38
     },
     {
       "id": "3",
@@ -38,15 +29,10 @@
       "category": "Dress",
       "description": "A dress with overlapping front panels and an adjustable waist tie.",
       "silhouette": "Wrap",
-      "customizableElements": [
-        "bodice",
-        "neckline",
-        "sleeves",
-        "waist",
-        "skirt",
-        "length"
-      ],
-      "image": "/images/wrap-dress.png"
+      "customizableElements": ["bodice", "neckline", "sleeves", "waist", "skirt", "length"],
+      "image": "/images/wrap-dress.png",
+      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "defaultSize": 38
     },
     {
       "id": "4",
@@ -54,15 +40,10 @@
       "category": "Dress",
       "description": "A minimal dress with thin straps and a fluid silhouette.",
       "silhouette": "Straight",
-      "customizableElements": [
-        "bodice",
-        "neckline",
-        "straps",
-        "skirt",
-        "length",
-        "slit"
-      ],
-      "image": "/images/slip-dress.png"
+      "customizableElements": ["bodice", "neckline", "straps", "skirt", "length", "slit"],
+      "image": "/images/slip-dress.png",
+      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "defaultSize": 38
     },
     {
       "id": "5",
@@ -70,16 +51,230 @@
       "category": "Dress",
       "description": "A shirt-inspired dress with a collar, front buttons and optional waist belt.",
       "silhouette": "Shirt",
-      "customizableElements": [
-        "collar",
-        "sleeves",
-        "cuffs",
-        "buttons",
-        "waist",
-        "skirt",
-        "length"
-      ],
-      "image": "/images/shirt-dress.png"
+      "customizableElements": ["collar", "sleeves", "cuffs", "buttons", "waist", "skirt", "length"],
+      "image": "/images/shirt-dress.png",
+      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "defaultSize": 38
+    },
+    {
+      "id": "6",
+      "name": "Classic Corset",
+      "category": "Corset",
+      "description": "A structured corset with a defined waist and classic curved neckline.",
+      "silhouette": "Structured",
+      "customizableElements": ["neckline", "cups", "boning", "waist", "back", "length"],
+      "image": "/images/classic-corset.png",
+      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "defaultSize": 38
+    },
+    {
+      "id": "7",
+      "name": "Sweetheart Corset",
+      "category": "Corset",
+      "description": "A fitted corset with a sweetheart neckline and shaped cups.",
+      "silhouette": "Sweetheart",
+      "customizableElements": ["neckline", "cups", "boning", "waist", "back", "length"],
+      "image": "/images/sweetheart-corset.png",
+      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "defaultSize": 38
+    },
+    {
+      "id": "8",
+      "name": "Longline Corset",
+      "category": "Corset",
+      "description": "An elongated corset extending below the natural waist.",
+      "silhouette": "Longline",
+      "customizableElements": ["neckline", "cups", "boning", "waist", "back", "length"],
+      "image": "/images/longline-corset.png",
+      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "defaultSize": 38
+    },
+    {
+      "id": "9",
+      "name": "Underbust Corset",
+      "category": "Corset",
+      "description": "A structured corset that starts below the bust and shapes the waist.",
+      "silhouette": "Underbust",
+      "customizableElements": ["waist", "boning", "back", "length", "closures"],
+      "image": "/images/underbust-corset.png",
+      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "defaultSize": 38
+    },
+    {
+      "id": "10",
+      "name": "Lace-Up Corset",
+      "category": "Corset",
+      "description": "A fitted corset featuring a lace-up back and visible panel construction.",
+      "silhouette": "Lace-up",
+      "customizableElements": ["neckline", "cups", "boning", "waist", "back", "closures"],
+      "image": "/images/lace-up-corset.png",
+      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "defaultSize": 38
+    },
+    {
+      "id": "11",
+      "name": "Wide-Leg Trousers",
+      "category": "Pants",
+      "description": "High-waisted trousers with a wide and fluid leg.",
+      "silhouette": "Wide-leg",
+      "customizableElements": ["waistband", "hips", "leg", "pockets", "length", "closures"],
+      "image": "/images/wide-leg-trousers.png",
+      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "defaultSize": 38
+    },
+    {
+      "id": "12",
+      "name": "Straight-Leg Trousers",
+      "category": "Pants",
+      "description": "Classic trousers with a straight leg and tailored waist.",
+      "silhouette": "Straight",
+      "customizableElements": ["waistband", "hips", "leg", "pockets", "length", "closures"],
+      "image": "/images/straight-leg-trousers.png",
+      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "defaultSize": 38
+    },
+    {
+      "id": "13",
+      "name": "Flared Trousers",
+      "category": "Pants",
+      "description": "Fitted through the hips with legs that widen towards the hem.",
+      "silhouette": "Flared",
+      "customizableElements": ["waistband", "hips", "leg", "pockets", "length", "closures"],
+      "image": "/images/flared-trousers.png",
+      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "defaultSize": 38
+    },
+    {
+      "id": "14",
+      "name": "Tapered Trousers",
+      "category": "Pants",
+      "description": "Trousers with a relaxed upper leg and a narrower ankle.",
+      "silhouette": "Tapered",
+      "customizableElements": ["waistband", "hips", "leg", "pockets", "length", "closures"],
+      "image": "/images/tapered-trousers.png",
+      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "defaultSize": 38
+    },
+    {
+      "id": "15",
+      "name": "Cargo Trousers",
+      "category": "Pants",
+      "description": "Utility-inspired trousers with a relaxed fit and side pockets.",
+      "silhouette": "Cargo",
+      "customizableElements": ["waistband", "hips", "leg", "pockets", "length", "closures"],
+      "image": "/images/cargo-trousers.png",
+      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "defaultSize": 38
+    },
+    {
+      "id": "16",
+      "name": "Classic Button Shirt",
+      "category": "Shirt",
+      "description": "A timeless button-up shirt with a collar and long sleeves.",
+      "silhouette": "Classic",
+      "customizableElements": ["collar", "neckline", "sleeves", "cuffs", "buttons", "bodice", "length"],
+      "image": "/images/classic-button-shirt.png",
+      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "defaultSize": 38
+    },
+    {
+      "id": "17",
+      "name": "Oversized Shirt",
+      "category": "Shirt",
+      "description": "A relaxed oversized shirt with dropped shoulders and a loose fit.",
+      "silhouette": "Oversized",
+      "customizableElements": ["collar", "neckline", "sleeves", "cuffs", "buttons", "bodice", "length"],
+      "image": "/images/oversized-shirt.png",
+      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "defaultSize": 38
+    },
+    {
+      "id": "18",
+      "name": "Cropped Shirt",
+      "category": "Shirt",
+      "description": "A short shirt with a defined waist and classic collar.",
+      "silhouette": "Cropped",
+      "customizableElements": ["collar", "neckline", "sleeves", "cuffs", "buttons", "bodice", "length"],
+      "image": "/images/cropped-shirt.png",
+      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "defaultSize": 38
+    },
+    {
+      "id": "19",
+      "name": "Puff Sleeve Shirt",
+      "category": "Shirt",
+      "description": "A feminine shirt with voluminous puff sleeves and fitted cuffs.",
+      "silhouette": "Puff sleeve",
+      "customizableElements": ["collar", "neckline", "sleeves", "cuffs", "buttons", "bodice", "length"],
+      "image": "/images/puff-sleeve-shirt.png",
+      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "defaultSize": 38
+    },
+    {
+      "id": "20",
+      "name": "Sleeveless Shirt",
+      "category": "Shirt",
+      "description": "A sleeveless shirt with a clean silhouette and button front.",
+      "silhouette": "Sleeveless",
+      "customizableElements": ["collar", "neckline", "armholes", "buttons", "bodice", "length"],
+      "image": "/images/sleeveless-shirt.png",
+      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "defaultSize": 38
+    },
+    {
+      "id": "21",
+      "name": "A-Line Skirt",
+      "category": "Skirt",
+      "description": "A classic skirt that gently widens from the waist to the hem.",
+      "silhouette": "A-line",
+      "customizableElements": ["waistband", "hips", "volume", "length", "closures", "pockets"],
+      "image": "/images/a-line-skirt.png",
+      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "defaultSize": 38
+    },
+    {
+      "id": "22",
+      "name": "Pleated Skirt",
+      "category": "Skirt",
+      "description": "A skirt with structured pleats and a defined waistband.",
+      "silhouette": "Pleated",
+      "customizableElements": ["waistband", "pleats", "volume", "length", "closures"],
+      "image": "/images/pleated-skirt.png",
+      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "defaultSize": 38
+    },
+    {
+      "id": "23",
+      "name": "Wrap Skirt",
+      "category": "Skirt",
+      "description": "An overlapping skirt with an adjustable side fastening.",
+      "silhouette": "Wrap",
+      "customizableElements": ["waistband", "overlap", "volume", "length", "closures"],
+      "image": "/images/wrap-skirt.png",
+      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "defaultSize": 38
+    },
+    {
+      "id": "24",
+      "name": "Ruffled Skirt",
+      "category": "Skirt",
+      "description": "A tiered skirt with soft ruffles and a flowing silhouette.",
+      "silhouette": "Ruffled",
+      "customizableElements": ["waistband", "ruffles", "volume", "length"],
+      "image": "/images/ruffled-skirt.png",
+      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "defaultSize": 38
+    },
+    {
+      "id": "25",
+      "name": "Pencil Skirt",
+      "category": "Skirt",
+      "description": "A fitted skirt with a narrow silhouette and optional back slit.",
+      "silhouette": "Pencil",
+      "customizableElements": ["waistband", "hips", "slit", "length", "closures"],
+      "image": "/images/pencil-skirt.png",
+      "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "defaultSize": 38
     }
   ]
 }
