@@ -276,5 +276,151 @@
       "availableSizes": [34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
       "defaultSize": 38
     }
-  ]
+  ],
+  
+"bodySizes": [
+  {
+    "id": "34",
+    "size": 34,
+    "bust": 80,
+    "waist": 64,
+    "hips": 90,
+    "shoulderWidth": 36,
+    "armLength": 58,
+    "upperArm": 26,
+    "backLength": 39,
+    "crotchDepth": 25,
+    "inseam": 76
+  },
+  {
+    "id": "36",
+    "size": 36,
+    "bust": 84,
+    "waist": 68,
+    "hips": 94,
+    "shoulderWidth": 37,
+    "armLength": 58.5,
+    "upperArm": 27,
+    "backLength": 39.5,
+    "crotchDepth": 25.5,
+    "inseam": 76.5
+  },
+  {
+    "id": "38",
+    "size": 38,
+    "bust": 88,
+    "waist": 72,
+    "hips": 98,
+    "shoulderWidth": 38,
+    "armLength": 59,
+    "upperArm": 28,
+    "backLength": 40,
+    "crotchDepth": 26,
+    "inseam": 77
+  },
+  {
+    "id": "40",
+    "size": 40,
+    "bust": 92,
+    "waist": 76,
+    "hips": 102,
+    "shoulderWidth": 39,
+    "armLength": 59.5,
+    "upperArm": 29,
+    "backLength": 40.5,
+    "crotchDepth": 26.5,
+    "inseam": 77.5
+  },
+  {
+    "id": "42",
+    "size": 42,
+    "bust": 96,
+    "waist": 80,
+    "hips": 106,
+    "shoulderWidth": 40,
+    "armLength": 60,
+    "upperArm": 30,
+    "backLength": 41,
+    "crotchDepth": 27,
+    "inseam": 78
+  },
+  {
+    "id": "44",
+    "size": 44,
+    "bust": 100,
+    "waist": 84,
+    "hips": 110,
+    "shoulderWidth": 41,
+    "armLength": 60.5,
+    "upperArm": 31,
+    "backLength": 41.5,
+    "crotchDepth": 27.5,
+    "inseam": 78.5
+  },
+  {
+    "id": "46",
+    "size": 46,
+    "bust": 104,
+    "waist": 88,
+    "hips": 114,
+    "shoulderWidth": 42,
+    "armLength": 61,
+    "upperArm": 32,
+    "backLength": 42,
+    "crotchDepth": 28,
+    "inseam": 79
+  },
+  {
+    "id": "48",
+    "size": 48,
+    "bust": 109,
+    "waist": 93,
+    "hips": 119,
+    "shoulderWidth": 43,
+    "armLength": 61.5,
+    "upperArm": 33,
+    "backLength": 42.5,
+    "crotchDepth": 28.5,
+    "inseam": 79.5
+  },
+  {
+    "id": "50",
+    "size": 50,
+    "bust": 114,
+    "waist": 98,
+    "hips": 124,
+    "shoulderWidth": 44,
+    "armLength": 62,
+    "upperArm": 34,
+    "backLength": 43,
+    "crotchDepth": 29,
+    "inseam": 80
+  },
+  {
+    "id": "52",
+    "size": 52,
+    "bust": 119,
+    "waist": 103,
+    "hips": 129,
+    "shoulderWidth": 45,
+    "armLength": 62.5,
+    "upperArm": 35,
+    "backLength": 43.5,
+    "crotchDepth": 29.5,
+    "inseam": 80.5
+  },
+  {
+    "id": "54",
+    "size": 54,
+    "bust": 124,
+    "waist": 108,
+    "hips": 134,
+    "shoulderWidth": 46,
+    "armLength": 63,
+    "upperArm": 36,
+    "backLength": 44,
+    "crotchDepth": 30,
+    "inseam": 81
+  }
+]
 }
