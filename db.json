@@ -422,5 +422,61 @@
     "crotchDepth": 30,
     "inseam": 81
   }
+],
+"components": [
+  {
+    "id": "1",
+    "garmentId": "1",
+    "name": "Bodice",
+    "type": "bodice",
+    "options": ["Fitted", "Loose", "Corset"],
+    "defaultOption": "Fitted",
+    "defaultSize": 38
+  },
+  {
+    "id": "2",
+    "garmentId": "1",
+    "name": "Neckline",
+    "type": "neckline",
+    "options": ["Round", "V-neck", "Square", "Sweetheart", "Boat"],
+    "defaultOption": "Round",
+    "defaultSize": 38
+  },
+  {
+    "id": "3",
+    "garmentId": "1",
+    "name": "Sleeves",
+    "type": "sleeves",
+    "options": ["Sleeveless", "Short", "Long", "Puff", "Bell"],
+    "defaultOption": "Short",
+    "defaultSize": 38
+  },
+  {
+    "id": "4",
+    "garmentId": "1",
+    "name": "Waist",
+    "type": "waist",
+    "options": ["Natural", "High", "Dropped"],
+    "defaultOption": "Natural",
+    "defaultSize": 38
+  },
+  {
+    "id": "5",
+    "garmentId": "1",
+    "name": "Skirt",
+    "type": "skirt",
+    "options": ["A-line", "Straight", "Gathered", "Pleated"],
+    "defaultOption": "A-line",
+    "defaultSize": 38
+  },
+  {
+    "id": "6",
+    "garmentId": "1",
+    "name": "Length",
+    "type": "length",
+    "options": ["Mini", "Knee", "Midi", "Maxi"],
+    "defaultOption": "Midi",
+    "defaultSize": 38
+  }
 ]
 }
