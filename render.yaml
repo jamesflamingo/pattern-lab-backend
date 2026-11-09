@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: pattern-lab-backend
+    runtime: node
+    buildCommand: npm ci
+    startCommand: npm start
+    healthCheckPath: /garments
+    disk:
+      name: pattern-lab-data
+      mountPath: /var/data
+      sizeGB: 1
+    envVars:
+      - key: DB_FILE
+        value: /var/data/db.json
