@@ -4431,5 +4431,45 @@
       "defaultSize": 38
     }
   ],
-  "designs": []
+  "designs": [
+    {
+      "name": "Classic Dress — my design",
+      "garmentId": "1",
+      "options": {
+        "2": "Square",
+        "3": "Bishop",
+        "7": "Bell",
+        "40": "Ruffled"
+      },
+      "sizes": {
+        "2": 38,
+        "3": 38,
+        "7": 38,
+        "40": 38
+      },
+      "updatedAt": "2026-11-11T09:04:05.168Z",
+      "createdAt": "2026-11-11T09:04:05.168Z",
+      "id": "MmNiT_KW93s"
+    },
+    {
+      "name": "MODELO 1",
+      "garmentId": "1",
+      "options": {
+        "2": "V-neck",
+        "3": "Bell",
+        "7": "Bishop",
+        "40": "Asymmetric"
+      },
+      "sizes": {
+        "2": 38,
+        "3": 38,
+        "7": 38,
+        "40": 48
+      },
+      "updatedAt": "2026-11-11T11:46:49.793Z",
+      "createdAt": "2026-11-11T11:46:49.793Z",
+      "id": "80iqP9TB4cM"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
